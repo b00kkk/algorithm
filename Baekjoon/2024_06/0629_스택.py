@@ -1,4 +1,4 @@
-#BOJ 1082
+#BOJ 10828
 import sys
 n=int(sys.stdin.readline())
 stack=[]
