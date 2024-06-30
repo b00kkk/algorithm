@@ -1,3 +1,4 @@
+#BOJ 18110
 import sys
 n=int(sys.stdin.readline())
 lst=[]
