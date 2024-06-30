@@ -11,5 +11,5 @@
 | ----- | ------------- | ------ | ------------------------------------------------------------------------------------------- |
 | 06/28 | 팰린드롬 만들기 | Python | [백준 1213](https://www.acmicpc.net/problem/1213)   |
 | 06/29 | 스택 | Python | [백준 10828](https://www.acmicpc.net/problem/10828)   |
-| 06/30 |  | Python | [백준 10845](https://www.acmicpc.net/problem/10845)   |
+| 06/30 | 큐 | Python | [백준 10845](https://www.acmicpc.net/problem/10845)   |
 </details>
