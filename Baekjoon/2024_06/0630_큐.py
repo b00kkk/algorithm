@@ -30,3 +30,4 @@ for i in range(n):
             print(q.pop(0))
         else:
             print(-1)
+        
