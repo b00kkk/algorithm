@@ -22,4 +22,5 @@
 | 07/01 | solved.ac | Python | [백준 18110](https://www.acmicpc.net/problem/18110)   |
 | 07/02 | 소수 구하기 | Python | [백준 1929](https://www.acmicpc.net/problem/1929)   |
 | 07/03 | 통계학 | Python | [백준 2108](https://www.acmicpc.net/problem/2108)   |
+| 07/04 | 랜선 자르기 | Python | [백준 1654](https://www.acmicpc.net/problem/1654)   |
 </details>
