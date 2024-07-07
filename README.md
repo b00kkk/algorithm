@@ -25,4 +25,5 @@
 | 07/04 | 랜선 자르기 | Python | [백준 1654](https://www.acmicpc.net/problem/1654)   |
 | 07/05 | 파도반 수열 | Python | [백준 9461](https://www.acmicpc.net/problem/9461)   |
 | 07/06 | 1,2,3 더하기 | Python | [백준 9095](https://www.acmicpc.net/problem/9095)   |
+| 07/07 | 2xn 타일링 2 | Python | [백준 11727](https://www.acmicpc.net/problem/11727)   |
 </details>
