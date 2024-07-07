@@ -26,4 +26,5 @@
 | 07/05 | 파도반 수열 | Python | [백준 9461](https://www.acmicpc.net/problem/9461)   |
 | 07/06 | 1,2,3 더하기 | Python | [백준 9095](https://www.acmicpc.net/problem/9095)   |
 | 07/07 | 2xn 타일링 2 | Python | [백준 11727](https://www.acmicpc.net/problem/11727)   |
+| 07/08 | 패션왕 신해빈 | Python | [백준 9375](https://www.acmicpc.net/problem/9375)   |
 </details>
