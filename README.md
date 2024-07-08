@@ -27,4 +27,5 @@
 | 07/06 | 1,2,3 더하기 | Python | [백준 9095](https://www.acmicpc.net/problem/9095)   |
 | 07/07 | 2xn 타일링 2 | Python | [백준 11727](https://www.acmicpc.net/problem/11727)   |
 | 07/08 | 패션왕 신해빈 | Python | [백준 9375](https://www.acmicpc.net/problem/9375)   |
+| 07/09 | 나무 자르기 | Python | [백준 2805](https://www.acmicpc.net/problem/2805)   |
 </details>
