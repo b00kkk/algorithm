@@ -28,4 +28,5 @@
 | 07/07 | 2xn 타일링 2 | Python | [백준 11727](https://www.acmicpc.net/problem/11727)   |
 | 07/08 | 패션왕 신해빈 | Python | [백준 9375](https://www.acmicpc.net/problem/9375)   |
 | 07/09 | 나무 자르기 | Python | [백준 2805](https://www.acmicpc.net/problem/2805)   |
+| 07/10 | 최소 힙 | Python | [백준 1927](https://www.acmicpc.net/problem/1927)   |
 </details>
