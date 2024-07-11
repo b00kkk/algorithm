@@ -29,5 +29,6 @@
 | 07/08 | 패션왕 신해빈 | Python | [백준 9375](https://www.acmicpc.net/problem/9375)   |
 | 07/09 | 나무 자르기 | Python | [백준 2805](https://www.acmicpc.net/problem/2805)   |
 | 07/10 | 최소 힙 | Python | [백준 1927](https://www.acmicpc.net/problem/1927)   |
-| 07/10 | 베르트랑 공준 | Python | [백준 4948](https://www.acmicpc.net/problem/4948)   |
+| 07/11 | 베르트랑 공준 | Python | [백준 4948](https://www.acmicpc.net/problem/4948)   |
+| 07/12 | 신나는 함수 실행 | Python | [백준 9184](https://www.acmicpc.net/problem/9148)   |
 </details>
