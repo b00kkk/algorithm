@@ -31,4 +31,5 @@
 | 07/10 | 최소 힙 | Python | [백준 1927](https://www.acmicpc.net/problem/1927)   |
 | 07/11 | 베르트랑 공준 | Python | [백준 4948](https://www.acmicpc.net/problem/4948)   |
 | 07/12 | 신나는 함수 실행 | Python | [백준 9184](https://www.acmicpc.net/problem/9148)   |
+| 07/13 | 연속합 | Python | [백준 1912](https://www.acmicpc.net/problem/1912)   |
 </details>
