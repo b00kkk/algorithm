@@ -32,4 +32,5 @@
 | 07/11 | 베르트랑 공준 | Python | [백준 4948](https://www.acmicpc.net/problem/4948)   |
 | 07/12 | 신나는 함수 실행 | Python | [백준 9184](https://www.acmicpc.net/problem/9148)   |
 | 07/13 | 연속합 | Python | [백준 1912](https://www.acmicpc.net/problem/1912)   |
+| 07/14 | 트리의 부모 찾기 | Python | [백준 11725](https://www.acmicpc.net/problem/11725)   |
 </details>
