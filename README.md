@@ -33,5 +33,6 @@
 | 07/12 | 신나는 함수 실행 | Python | [백준 9184](https://www.acmicpc.net/problem/9148)   |
 | 07/13 | 연속합 | Python | [백준 1912](https://www.acmicpc.net/problem/1912)   |
 | 07/14 | 트리의 부모 찾기 | Python | [백준 11725](https://www.acmicpc.net/problem/11725)   |
-| 07/14 | 골드바흐의 추측 | Python | [백준 9020](https://www.acmicpc.net/problem/9020)   |
+| 07/15 | 골드바흐의 추측 | Python | [백준 9020](https://www.acmicpc.net/problem/9020)   |
+| 07/16 | 크로스워드 | Python | [백준 1706](https://www.acmicpc.net/problem/1706)   |
 </details>
