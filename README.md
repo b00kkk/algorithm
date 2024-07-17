@@ -35,4 +35,5 @@
 | 07/14 | 트리의 부모 찾기 | Python | [백준 11725](https://www.acmicpc.net/problem/11725)   |
 | 07/15 | 골드바흐의 추측 | Python | [백준 9020](https://www.acmicpc.net/problem/9020)   |
 | 07/16 | 크로스워드 | Python | [백준 1706](https://www.acmicpc.net/problem/1706)   |
+| 07/17 | 로또 | Python | [백준 6603](https://www.acmicpc.net/problem/6603)   |
 </details>
