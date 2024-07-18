@@ -37,4 +37,5 @@
 | 07/16 | 크로스워드 | Python | [백준 1706](https://www.acmicpc.net/problem/1706)   |
 | 07/17 | 로또 | Python | [백준 6603](https://www.acmicpc.net/problem/6603)   |
 | 07/18 | 에디터 | Python | [백준 1406](https://www.acmicpc.net/problem/1406)   |
+| 07/19 | 가장 큰 증가하는 부분 수열 | Python | [백준 11055](https://www.acmicpc.net/problem/11055)   |
 </details>
