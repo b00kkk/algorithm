@@ -36,4 +36,5 @@
 | 07/15 | 골드바흐의 추측 | Python | [백준 9020](https://www.acmicpc.net/problem/9020)   |
 | 07/16 | 크로스워드 | Python | [백준 1706](https://www.acmicpc.net/problem/1706)   |
 | 07/17 | 로또 | Python | [백준 6603](https://www.acmicpc.net/problem/6603)   |
+| 07/18 | 에디터 | Python | [백준 1406](https://www.acmicpc.net/problem/1406)   |
 </details>
