@@ -30,7 +30,7 @@
 | 07/09 | 나무 자르기 | Python | [백준 2805](https://www.acmicpc.net/problem/2805)   |
 | 07/10 | 최소 힙 | Python | [백준 1927](https://www.acmicpc.net/problem/1927)   |
 | 07/11 | 베르트랑 공준 | Python | [백준 4948](https://www.acmicpc.net/problem/4948)   |
-| 07/12 | 신나는 함수 실행 | Python | [백준 9184](https://www.acmicpc.net/problem/9148)   |
+| 07/12 | 신나는 함수 실행 | Python | [백준 9184](https://www.acmicpc.net/problem/9184)   |
 | 07/13 | 연속합 | Python | [백준 1912](https://www.acmicpc.net/problem/1912)   |
 | 07/14 | 트리의 부모 찾기 | Python | [백준 11725](https://www.acmicpc.net/problem/11725)   |
 | 07/15 | 골드바흐의 추측 | Python | [백준 9020](https://www.acmicpc.net/problem/9020)   |
@@ -38,4 +38,5 @@
 | 07/17 | 로또 | Python | [백준 6603](https://www.acmicpc.net/problem/6603)   |
 | 07/18 | 에디터 | Python | [백준 1406](https://www.acmicpc.net/problem/1406)   |
 | 07/19 | 가장 큰 증가하는 부분 수열 | Python | [백준 11055](https://www.acmicpc.net/problem/11055)   |
+| 07/20 | A → B | Python | [백준 16953](https://www.acmicpc.net/problem/16953)   |
 </details>
