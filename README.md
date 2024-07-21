@@ -39,4 +39,5 @@
 | 07/18 | 에디터 | Python | [백준 1406](https://www.acmicpc.net/problem/1406)   |
 | 07/19 | 가장 큰 증가하는 부분 수열 | Python | [백준 11055](https://www.acmicpc.net/problem/11055)   |
 | 07/20 | A → B | Python | [백준 16953](https://www.acmicpc.net/problem/16953)   |
+| 07/21 | 이항 계수 2 | Python | [백준 11051](https://www.acmicpc.net/problem/11051)   |
 </details>
