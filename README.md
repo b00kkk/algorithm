@@ -40,4 +40,5 @@
 | 07/19 | 가장 큰 증가하는 부분 수열 | Python | [백준 11055](https://www.acmicpc.net/problem/11055)   |
 | 07/20 | A → B | Python | [백준 16953](https://www.acmicpc.net/problem/16953)   |
 | 07/21 | 이항 계수 2 | Python | [백준 11051](https://www.acmicpc.net/problem/11051)   |
+| 07/22 | 구간 합 구하기 5 | Python | [백준 11660](https://www.acmicpc.net/problem/11660)   |
 </details>
