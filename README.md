@@ -43,4 +43,5 @@
 | 07/22 | 구간 합 구하기 5 | Python | [백준 11660](https://www.acmicpc.net/problem/11660)   |
 | 07/23 | RGB거리 | Python | [백준 1149](https://www.acmicpc.net/problem/1149)   |
 | 07/24 | 포도주 시식 | Python | [백준 2156](https://www.acmicpc.net/problem/2156)   |
+| 07/25 | 연산자 끼워넣기 | Python | [백준 14888](https://www.acmicpc.net/problem/14888)   |
 </details>
