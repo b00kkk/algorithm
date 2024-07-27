@@ -45,4 +45,5 @@
 | 07/24 | 포도주 시식 | Python | [백준 2156](https://www.acmicpc.net/problem/2156)   |
 | 07/25 | 연산자 끼워넣기 | Python | [백준 14888](https://www.acmicpc.net/problem/14888)   |
 | 07/26 | 스타트와 링크 | Python | [백준 14889](https://www.acmicpc.net/problem/14889)   |
+| 07/27 | 곱셈 | Python | [백준 1629](https://www.acmicpc.net/problem/1629)   |
 </details>
