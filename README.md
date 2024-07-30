@@ -48,4 +48,5 @@
 | 07/27 | 곱셈 | Python | [백준 1629](https://www.acmicpc.net/problem/1629)   |
 | 07/28 | 절댓값 힙 | Python | [백준 11286](https://www.acmicpc.net/problem/11286)   |
 | 07/29 | 점프 | Python | [백준 1890](https://www.acmicpc.net/problem/1890)   |
+| 07/30 | 경로 찾기 | Python | [백준 11403](https://www.acmicpc.net/problem/11403)   |
 </details>
