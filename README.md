@@ -49,4 +49,5 @@
 | 07/28 | 절댓값 힙 | Python | [백준 11286](https://www.acmicpc.net/problem/11286)   |
 | 07/29 | 점프 | Python | [백준 1890](https://www.acmicpc.net/problem/1890)   |
 | 07/30 | 경로 찾기 | Python | [백준 11403](https://www.acmicpc.net/problem/11403)   |
+| 07/31 | 카드 구매하기 | Python | [백준 11052](https://www.acmicpc.net/problem/11052)   |
 </details>
