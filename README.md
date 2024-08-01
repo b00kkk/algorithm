@@ -51,3 +51,12 @@
 | 07/30 | 경로 찾기 | Python | [백준 11403](https://www.acmicpc.net/problem/11403)   |
 | 07/31 | 카드 구매하기 | Python | [백준 11052](https://www.acmicpc.net/problem/11052)   |
 </details>
+
+<details>
+<summary> ✍️ 2024년 8월 </summary>
+
+| 날짜  | 문제이름      | 언어   | 풀이 or 출처                                                                                |
+| ----- | ------------- | ------ | ------------------------------------------------------------------------------------------- |
+| 08/01 | 트리 순회 | Python | [백준 1991](https://www.acmicpc.net/problem/1991)   |
+
+</details>
