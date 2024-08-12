@@ -59,4 +59,5 @@
 | ----- | ------------- | ------ | ------------------------------------------------------------------------------------------- |
 | 08/01 | 트리 순회 | Python | [백준 1991](https://www.acmicpc.net/problem/1991)   |
 | 08/02 | IOIOI | Python | [백준 5525](https://www.acmicpc.net/problem/5525)   |
+| 08/12 | 없어진 기록 찾기 | SQL | [프로그래머스 59042](https://school.programmers.co.kr/learn/courses/30/lessons/59042)   |
 </details>
