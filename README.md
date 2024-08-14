@@ -1,6 +1,6 @@
 # 📖 1day_1Algorithm
 
-- Language : Python
+- Language : Python, SQL
 - Platform : Baekjoon Online Judge, Programmers
 
 
@@ -62,4 +62,6 @@
 | 08/12 | 없어진 기록 찾기 | SQL | [프로그래머스 59042](https://school.programmers.co.kr/learn/courses/30/lessons/59042)   |
 | 08/13 | 헌내기는 친구가 필요해| Python | [백준 21736](https://www.acmicpc.net/problem/5525)   |
 |       | 있었는데요 없었습니다 | SQL | [프로그래머스 59043](https://school.programmers.co.kr/learn/courses/30/lessons/59043)   |
+| 08/14 | 과일 탕후루| Python | [백준 30804](https://www.acmicpc.net/problem/30804)   |
+|       | 오랜 기간 보호한 동물(1) | SQL | [프로그래머스 59044](https://school.programmers.co.kr/learn/courses/30/lessons/59044)   |
 </details>
