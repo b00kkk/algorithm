@@ -64,4 +64,6 @@
 |       | 있었는데요 없었습니다 | SQL | [프로그래머스 59043](https://school.programmers.co.kr/learn/courses/30/lessons/59043)   |
 | 08/14 | 과일 탕후루| Python | [백준 30804](https://www.acmicpc.net/problem/30804)   |
 |       | 오랜 기간 보호한 동물(1) | SQL | [프로그래머스 59044](https://school.programmers.co.kr/learn/courses/30/lessons/59044)   |
+| 08/15 | 숫자 놀이| Python | [백준 2777](https://www.acmicpc.net/problem/2777)   |
+|       | 오랜 기간 보호한 동물(2) | SQL | [프로그래머스 59411](https://school.programmers.co.kr/learn/courses/30/lessons/59411)   |
 </details>
