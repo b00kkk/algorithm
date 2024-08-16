@@ -66,4 +66,6 @@
 |       | 오랜 기간 보호한 동물(1) | SQL | [프로그래머스 59044](https://school.programmers.co.kr/learn/courses/30/lessons/59044)   |
 | 08/15 | 숫자 놀이| Python | [백준 2777](https://www.acmicpc.net/problem/2777)   |
 |       | 오랜 기간 보호한 동물(2) | SQL | [프로그래머스 59411](https://school.programmers.co.kr/learn/courses/30/lessons/59411)   |
+| 08/16 | 골드바흐 파티션| Python | [백준 17103](https://www.acmicpc.net/problem/17103)   |
+|       | 헤비 유저가 소유한 장소 | SQL | [프로그래머스 77487](https://school.programmers.co.kr/learn/courses/30/lessons/77487)   |
 </details>
