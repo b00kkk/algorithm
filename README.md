@@ -70,4 +70,6 @@
 |       | 헤비 유저가 소유한 장소 | SQL | [프로그래머스 77487](https://school.programmers.co.kr/learn/courses/30/lessons/77487)   |
 | 08/17 | 조건별로 분류하여 주문상태 출력하기 | SQL | [프로그래머스 131113](https://school.programmers.co.kr/learn/courses/30/lessons/131113)   |
 |       | 카드 합체 놀이| Python | [백준 15903](https://www.acmicpc.net/problem/15903)   |
+| 08/18 | 조건별로 분류하여 주문상태 출력하기 | SQL | [프로그래머스 131123](https://school.programmers.co.kr/learn/courses/30/lessons/131123)   |
+|       | 1,2,3더하기 3| Python | [백준 15988](https://www.acmicpc.net/problem/15988)   |
 </details>
