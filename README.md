@@ -72,4 +72,6 @@
 |       | 카드 합체 놀이| Python | [백준 15903](https://www.acmicpc.net/problem/15903)   |
 | 08/18 | 조건별로 분류하여 주문상태 출력하기 | SQL | [프로그래머스 131123](https://school.programmers.co.kr/learn/courses/30/lessons/131123)   |
 |       | 1,2,3더하기 3| Python | [백준 15988](https://www.acmicpc.net/problem/15988)   |
+| 08/19 | 카테고리 별 도서 판매량 집계하기 | SQL | [프로그래머스 144855](https://school.programmers.co.kr/learn/courses/30/lessons/144855)   |
+|       | 여우는 어떻게 울지?| Python | [백준 9536](https://www.acmicpc.net/problem/9536)   |
 </details>
