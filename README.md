@@ -74,4 +74,5 @@
 |       | 1,2,3더하기 3| Python | [백준 15988](https://www.acmicpc.net/problem/15988)   |
 | 08/19 | 카테고리 별 도서 판매량 집계하기 | SQL | [프로그래머스 144855](https://school.programmers.co.kr/learn/courses/30/lessons/144855)   |
 |       | 여우는 어떻게 울지?| Python | [백준 9536](https://www.acmicpc.net/problem/9536)   |
+| 08/20 | 대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기 | SQL | [프로그래머스 151139](https://school.programmers.co.kr/learn/courses/30/lessons/151139)   |
 </details>
