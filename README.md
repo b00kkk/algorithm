@@ -75,4 +75,6 @@
 | 08/19 | 카테고리 별 도서 판매량 집계하기 | SQL | [프로그래머스 144855](https://school.programmers.co.kr/learn/courses/30/lessons/144855)   |
 |       | 여우는 어떻게 울지?| Python | [백준 9536](https://www.acmicpc.net/problem/9536)   |
 | 08/20 | 대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기 | SQL | [프로그래머스 151139](https://school.programmers.co.kr/learn/courses/30/lessons/151139)   |
+| 08/21 | 자동차 대여 기록에서 대여중/대여 가능 여부 구분하기 | SQL | [프로그래머스 157340](https://school.programmers.co.kr/learn/courses/30/lessons/157340)   |
+|       | 키로거 | Python | [백준 5397](https://www.acmicpc.net/problem/5397)   |
 </details>
