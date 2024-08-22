@@ -77,4 +77,6 @@
 | 08/20 | 대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기 | SQL | [프로그래머스 151139](https://school.programmers.co.kr/learn/courses/30/lessons/151139)   |
 | 08/21 | 자동차 대여 기록에서 대여중/대여 가능 여부 구분하기 | SQL | [프로그래머스 157340](https://school.programmers.co.kr/learn/courses/30/lessons/157340)   |
 |       | 키로거 | Python | [백준 5397](https://www.acmicpc.net/problem/5397)   |
+| 08/22 | 대여 기록이 존재하는 자동차 리스트 구하기 | SQL | [프로그래머스 157341](https://school.programmers.co.kr/learn/courses/30/lessons/157341)   |
+|       | 가장 긴 감소하는 부분 수열 | Python | [백준 11722](https://www.acmicpc.net/problem/11722)   |
 </details>
