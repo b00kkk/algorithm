@@ -79,4 +79,6 @@
 |       | 키로거 | Python | [백준 5397](https://www.acmicpc.net/problem/5397)   |
 | 08/22 | 대여 기록이 존재하는 자동차 리스트 구하기 | SQL | [프로그래머스 157341](https://school.programmers.co.kr/learn/courses/30/lessons/157341)   |
 |       | 가장 긴 감소하는 부분 수열 | Python | [백준 11722](https://www.acmicpc.net/problem/11722)   |
+| 08/23 | 조건에 맞는 사용자와 총 거래금액 조회하기 | SQL | [프로그래머스 164668](https://school.programmers.co.kr/learn/courses/30/lessons/164668)   |
+|       | 수열 | Python | [백준 2559](https://www.acmicpc.net/problem/2559)   |
 </details>
