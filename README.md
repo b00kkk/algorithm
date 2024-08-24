@@ -81,4 +81,6 @@
 |       | 가장 긴 감소하는 부분 수열 | Python | [백준 11722](https://www.acmicpc.net/problem/11722)   |
 | 08/23 | 조건에 맞는 사용자와 총 거래금액 조회하기 | SQL | [프로그래머스 164668](https://school.programmers.co.kr/learn/courses/30/lessons/164668)   |
 |       | 수열 | Python | [백준 2559](https://www.acmicpc.net/problem/2559)   |
+| 08/24 | 조건에 맞는 사용자 정보 조회하기 | SQL | [프로그래머스 164670](https://school.programmers.co.kr/learn/courses/30/lessons/164670)   |
+|       | 섬의 개수 | Python | [백준 4963](https://www.acmicpc.net/problem/4963)   |
 </details>
