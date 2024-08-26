@@ -85,4 +85,6 @@
 |       | 섬의 개수 | Python | [백준 4963](https://www.acmicpc.net/problem/4963)   |
 | 08/25 | 조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기 | SQL | [프로그래머스 164671](https://school.programmers.co.kr/learn/courses/30/lessons/164671)   |
 |       | N과 M (9) | Python | [백준 15663](https://www.acmicpc.net/problem/15663)   |
+| 08/26 | 업그레이드 할 수 없는 아이템 구하기 | SQL | [프로그래머스 273712](https://school.programmers.co.kr/learn/courses/30/lessons/273712)   |
+|       | 나이트의 이동 | Python | [백준 7562](https://www.acmicpc.net/problem/7562)   |
 </details>
