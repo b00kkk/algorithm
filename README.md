@@ -87,4 +87,6 @@
 |       | N과 M (9) | Python | [백준 15663](https://www.acmicpc.net/problem/15663)   |
 | 08/26 | 업그레이드 할 수 없는 아이템 구하기 | SQL | [프로그래머스 273712](https://school.programmers.co.kr/learn/courses/30/lessons/273712)   |
 |       | 나이트의 이동 | Python | [백준 7562](https://www.acmicpc.net/problem/7562)   |
+| 08/27 | 부서별 평균 연봉 조회하기 | SQL | [프로그래머스 284529](https://school.programmers.co.kr/learn/courses/30/lessons/284529)   |
+|       | 영역 구하기 | Python | [백준 2583](https://www.acmicpc.net/problem/2583)   |
 </details>
