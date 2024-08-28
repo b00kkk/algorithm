@@ -7,7 +7,7 @@
 <details>
 <summary> ✍️ 2024년 6월 </summary>
 
-| 날짜  | 문제이름      | 언어   | 풀이 or 출처                                                                                |
+| 날짜  | 문제이름      | 언어   |  출처                                                                                |
 | ----- | ------------- | ------ | ------------------------------------------------------------------------------------------- |
 | 06/28 | 팰린드롬 만들기 | Python | [백준 1213](https://www.acmicpc.net/problem/1213)   |
 | 06/29 | 스택 | Python | [백준 10828](https://www.acmicpc.net/problem/10828)   |
@@ -89,4 +89,6 @@
 |       | 나이트의 이동 | Python | [백준 7562](https://www.acmicpc.net/problem/7562)   |
 | 08/27 | 부서별 평균 연봉 조회하기 | SQL | [프로그래머스 284529](https://school.programmers.co.kr/learn/courses/30/lessons/284529)   |
 |       | 영역 구하기 | Python | [백준 2583](https://www.acmicpc.net/problem/2583)   |
+| 08/28 | 물고기 종류 별 대어 찾기 | SQL | [프로그래머스 293261](https://school.programmers.co.kr/learn/courses/30/lessons/293261)   |
+|       | 오르막 수 | Python | [백준 11057](https://www.acmicpc.net/problem/11057)   |
 </details>
