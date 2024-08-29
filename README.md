@@ -91,4 +91,6 @@
 |       | 영역 구하기 | Python | [백준 2583](https://www.acmicpc.net/problem/2583)   |
 | 08/28 | 물고기 종류 별 대어 찾기 | SQL | [프로그래머스 293261](https://school.programmers.co.kr/learn/courses/30/lessons/293261)   |
 |       | 오르막 수 | Python | [백준 11057](https://www.acmicpc.net/problem/11057)   |
+| 08/29 | 특정 조건을 만족하는 물고기별 수와 최대 길이 구하기 | SQL | [프로그래머스 298519](https://school.programmers.co.kr/learn/courses/30/lessons/298519)   |
+|       | 신입 사원 | Python | [백준 1946](https://www.acmicpc.net/problem/1946)   |
 </details>
