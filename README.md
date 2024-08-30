@@ -93,4 +93,6 @@
 |       | 오르막 수 | Python | [백준 11057](https://www.acmicpc.net/problem/11057)   |
 | 08/29 | 특정 조건을 만족하는 물고기별 수와 최대 길이 구하기 | SQL | [프로그래머스 298519](https://school.programmers.co.kr/learn/courses/30/lessons/298519)   |
 |       | 신입 사원 | Python | [백준 1946](https://www.acmicpc.net/problem/1946)   |
+| 08/30 | 대장균들의 자식의 수 구하기 | SQL | [프로그래머스 299305](https://school.programmers.co.kr/learn/courses/30/lessons/299305)   |
+|       | 동물원 | Python | [백준 1309](https://www.acmicpc.net/problem/1309)   |
 </details>
