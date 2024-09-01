@@ -97,4 +97,6 @@
 |       | 동물원 | Python | [백준 1309](https://www.acmicpc.net/problem/1309)   |
 | 08/31 | 대장균의 크기에 따라 분류하기1 | SQL | [프로그래머스 299307](https://school.programmers.co.kr/learn/courses/30/lessons/299307)   |
 |       | 카잉 달력 | Python | [백준 6064](https://www.acmicpc.net/problem/6064)   |
+| 09/01 | 대장균의 크기에 따라 분류하기2 | SQL | [프로그래머스 301649](https://school.programmers.co.kr/learn/courses/30/lessons/301649)   |
+|       | 스타트링크 | Python | [백준 5014](https://www.acmicpc.net/problem/5014)   |
 </details>
