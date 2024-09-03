@@ -3,7 +3,7 @@ import sys
 from collections import deque
 input=sys.stdin.readline
 
-#F:전체층, S:현재층, G:스타트링크위치, 
+#F:전체층, S:현재층, G:스타트링크위치
 F,S,G,U,D=map(int,input().split())
 
 dx=[U,-D]
