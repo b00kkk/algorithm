@@ -97,6 +97,17 @@
 |       | 동물원 | Python | [백준 1309](https://www.acmicpc.net/problem/1309)   |
 | 08/31 | 대장균의 크기에 따라 분류하기1 | SQL | [프로그래머스 299307](https://school.programmers.co.kr/learn/courses/30/lessons/299307)   |
 |       | 카잉 달력 | Python | [백준 6064](https://www.acmicpc.net/problem/6064)   |
+
+</details>
+
+<details>
+<summary> ✍️ 2024년 9월 </summary>
+
+| 날짜  | 문제이름      | 언어   |  출처                                                                                |
+| ----- | ------------- | ------ | ------------------------------------------------------------------------------------------- |
 | 09/01 | 대장균의 크기에 따라 분류하기2 | SQL | [프로그래머스 301649](https://school.programmers.co.kr/learn/courses/30/lessons/301649)   |
 |       | 스타트링크 | Python | [백준 5014](https://www.acmicpc.net/problem/5014)   |
+| 09/02 | 보호소에서 중성화한 동물 | SQL | [프로그래머스 59045](https://school.programmers.co.kr/learn/courses/30/lessons/59045)   |
+| 09/03 | 입양 시각 구하기(2) | SQL | [프로그래머스 59413](https://school.programmers.co.kr/learn/courses/30/lessons/59413)   |
+|       | 그림 | Python | [백준 1926](https://www.acmicpc.net/problem/1926)   |
 </details>
