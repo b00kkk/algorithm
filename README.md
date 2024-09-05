@@ -112,4 +112,6 @@
 |       | 그림 | Python | [백준 1926](https://www.acmicpc.net/problem/1926)   |
 | 09/04 | 골드바흐의 추측 | Python | [백준 6588](https://www.acmicpc.net/problem/6588)   |
 |       | 우유와 요거트가 담긴 장바구니 | SQL | [프로그래머스 62284](https://school.programmers.co.kr/learn/courses/30/lessons/62284)   |
+| 09/05 | 1로 만들기 2 | Python | [백준 12852](https://www.acmicpc.net/problem/12852)   |
+|       | 식료품별 가장 비싼 식품의 정보 조회하기 | SQL | [프로그래머스 131116](https://school.programmers.co.kr/learn/courses/30/lessons/131116)   |
 </details>
