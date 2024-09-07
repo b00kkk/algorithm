@@ -114,6 +114,8 @@
 |       | 우유와 요거트가 담긴 장바구니 | SQL | [프로그래머스 62284](https://school.programmers.co.kr/learn/courses/30/lessons/62284)   |
 | 09/05 | 1로 만들기 2 | Python | [백준 12852](https://www.acmicpc.net/problem/12852)   |
 |       | 식료품별 가장 비싼 식품의 정보 조회하기 | SQL | [프로그래머스 131116](https://school.programmers.co.kr/learn/courses/30/lessons/131116)   |
-| 09/05 | 기타 레슨 | Python | [백준 2343](https://www.acmicpc.net/problem/2343)   |
+| 09/06 | 기타 레슨 | Python | [백준 2343](https://www.acmicpc.net/problem/2343)   |
 |       | 5월 식품들의 총매출 조회하기 | SQL | [프로그래머스 131117](https://school.programmers.co.kr/learn/courses/30/lessons/131117)   |
+| 09/07 | 행렬 | Python | [백준 1080](https://www.acmicpc.net/problem/1080)   |
+|       | 서울에 위치한 식당 목록 출력하기 | SQL | [프로그래머스 131118](https://school.programmers.co.kr/learn/courses/30/lessons/131118)   |
 </details>
