@@ -118,4 +118,6 @@
 |       | 5월 식품들의 총매출 조회하기 | SQL | [프로그래머스 131117](https://school.programmers.co.kr/learn/courses/30/lessons/131117)   |
 | 09/07 | 행렬 | Python | [백준 1080](https://www.acmicpc.net/problem/1080)   |
 |       | 서울에 위치한 식당 목록 출력하기 | SQL | [프로그래머스 131118](https://school.programmers.co.kr/learn/courses/30/lessons/131118)   |
+| 09/08 | 음식물 피하기 | Python | [백준 1743](https://www.acmicpc.net/problem/1743)   |
+|       | 그룹별 조건에 맞는 식당 목록 출력하기 | SQL | [프로그래머스 131124](https://school.programmers.co.kr/learn/courses/30/lessons/131124)   |
 </details>
