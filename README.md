@@ -122,4 +122,6 @@
 |       | 그룹별 조건에 맞는 식당 목록 출력하기 | SQL | [프로그래머스 131124](https://school.programmers.co.kr/learn/courses/30/lessons/131124)   |
 | 09/09 | 최대공약수 | Python | [백준 1850](https://www.acmicpc.net/problem/1850)   |
 |       | 년, 월, 성별 별 상품 구매 회원 수 구하기 | SQL | [프로그래머스 131532](https://school.programmers.co.kr/learn/courses/30/lessons/131532)   |
+| 09/10 | 카드 구매하기 2 | Python | [백준 16194](https://www.acmicpc.net/problem/16194)   |
+|       | 오프라인/온라인 판매 데이터 통합하기 | SQL | [프로그래머스 131537](https://school.programmers.co.kr/learn/courses/30/lessons/131537)   |
 </details>
