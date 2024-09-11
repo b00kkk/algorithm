@@ -124,4 +124,6 @@
 |       | 년, 월, 성별 별 상품 구매 회원 수 구하기 | SQL | [프로그래머스 131532](https://school.programmers.co.kr/learn/courses/30/lessons/131532)   |
 | 09/10 | 카드 구매하기 2 | Python | [백준 16194](https://www.acmicpc.net/problem/16194)   |
 |       | 오프라인/온라인 판매 데이터 통합하기 | SQL | [프로그래머스 131537](https://school.programmers.co.kr/learn/courses/30/lessons/131537)   |
+| 09/11 | 소수&팰린드롬 | Python | [백준 1747](https://www.acmicpc.net/problem/1747)   |
+|       | 취소되지 않은 진료 예약 조회하기 | SQL | [프로그래머스 132204](https://school.programmers.co.kr/learn/courses/30/lessons/132204)   |
 </details>
