@@ -126,4 +126,6 @@
 |       | 오프라인/온라인 판매 데이터 통합하기 | SQL | [프로그래머스 131537](https://school.programmers.co.kr/learn/courses/30/lessons/131537)   |
 | 09/11 | 소수&팰린드롬 | Python | [백준 1747](https://www.acmicpc.net/problem/1747)   |
 |       | 취소되지 않은 진료 예약 조회하기 | SQL | [프로그래머스 132204](https://school.programmers.co.kr/learn/courses/30/lessons/132204)   |
+| 09/12 | 트럭 | Python | [백준 13335](https://www.acmicpc.net/problem/13335)   |
+|       | 주문량이 많은 아이스크림들 조회하기 | SQL | [프로그래머스 133027](https://school.programmers.co.kr/learn/courses/30/lessons/133027)   |
 </details>
