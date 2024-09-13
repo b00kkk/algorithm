@@ -128,4 +128,6 @@
 |       | 취소되지 않은 진료 예약 조회하기 | SQL | [프로그래머스 132204](https://school.programmers.co.kr/learn/courses/30/lessons/132204)   |
 | 09/12 | 트럭 | Python | [백준 13335](https://www.acmicpc.net/problem/13335)   |
 |       | 주문량이 많은 아이스크림들 조회하기 | SQL | [프로그래머스 133027](https://school.programmers.co.kr/learn/courses/30/lessons/133027)   |
+| 09/13 | 저자 별 카테고리 별 매출액 집계하기 | SQL | [프로그래머스 144856](https://school.programmers.co.kr/learn/courses/30/lessons/144856)   |
+|       | 기타리스트 | Python | [백준 1495](https://www.acmicpc.net/problem/1495)   |
 </details>
