@@ -130,4 +130,6 @@
 |       | 주문량이 많은 아이스크림들 조회하기 | SQL | [프로그래머스 133027](https://school.programmers.co.kr/learn/courses/30/lessons/133027)   |
 | 09/13 | 저자 별 카테고리 별 매출액 집계하기 | SQL | [프로그래머스 144856](https://school.programmers.co.kr/learn/courses/30/lessons/144856)   |
 |       | 기타리스트 | Python | [백준 1495](https://www.acmicpc.net/problem/1495)   |
+| 09/20 | 회전 초밥 | Python | [백준 2531](https://www.acmicpc.net/problem/2531)   |
+|       | 자동차 대여 기록 별 금액 구하기 | SQL | [프로그래머스 1551141](https://school.programmers.co.kr/learn/courses/30/lessons/1551141)   |
 </details>
