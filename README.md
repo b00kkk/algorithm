@@ -134,4 +134,6 @@
 |       | 자동차 대여 기록 별 금액 구하기 | SQL | [프로그래머스 151141](https://school.programmers.co.kr/learn/courses/30/lessons/151141)   |
 | 09/21 | 극장 좌석 | Python | [백준 2302](https://www.acmicpc.net/problem/2302)   |
 |       | 특정 기간동안 대여 가능한 자동차들의 대여비용 구하기 | SQL | [프로그래머스 157339](https://school.programmers.co.kr/learn/courses/30/lessons/157339)   |
+| 09/22 | 전쟁-전투 | Python | [백준 1303](https://www.acmicpc.net/problem/2302)   |
+|       | FrontEnd 개발자 찾기 | SQL | [프로그래머스 276035](https://school.programmers.co.kr/learn/courses/30/lessons/276035)   |
 </details>
