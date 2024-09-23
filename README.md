@@ -136,4 +136,6 @@
 |       | 특정 기간동안 대여 가능한 자동차들의 대여비용 구하기 | SQL | [프로그래머스 157339](https://school.programmers.co.kr/learn/courses/30/lessons/157339)   |
 | 09/22 | 전쟁-전투 | Python | [백준 1303](https://www.acmicpc.net/problem/2302)   |
 |       | FrontEnd 개발자 찾기 | SQL | [프로그래머스 276035](https://school.programmers.co.kr/learn/courses/30/lessons/276035)   |
+| 09/23 | 양 | Python | [백준 3184](https://www.acmicpc.net/problem/3184)   |
+|       | 언어별 개발자 분류하기 | SQL | [프로그래머스 276036](https://school.programmers.co.kr/learn/courses/30/lessons/276036)   |
 </details>
