@@ -140,4 +140,5 @@
 |       | 언어별 개발자 분류하기 | SQL | [프로그래머스 276036](https://school.programmers.co.kr/learn/courses/30/lessons/276036)   |
 | 09/24 | 인간-컴퓨터 상호작용 | Python | [백준 16139](https://www.acmicpc.net/problem/16139)   |
 |       | 연간 평가점수에 해당하는 평가 등급 및 성과금 조회하기 | SQL | [프로그래머스 284528](https://school.programmers.co.kr/learn/courses/30/lessons/284528)   |
+| 09/25 | 특정 세대의 대장균 찾기 | SQL | [프로그래머스 301650](https://school.programmers.co.kr/learn/courses/30/lessons/301650)   |
 </details>
