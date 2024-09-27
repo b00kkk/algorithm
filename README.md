@@ -142,4 +142,5 @@
 |       | 연간 평가점수에 해당하는 평가 등급 및 성과금 조회하기 | SQL | [프로그래머스 284528](https://school.programmers.co.kr/learn/courses/30/lessons/284528)   |
 | 09/25 | 특정 세대의 대장균 찾기 | SQL | [프로그래머스 301650](https://school.programmers.co.kr/learn/courses/30/lessons/301650)   |
 | 09/26 | 지름길 | Python | [백준 1446](https://www.acmicpc.net/problem/1446)   |
+| 09/27 | 완전 이진 트리 | Python | [백준 9934](https://www.acmicpc.net/problem/9934)   |
 </details>
