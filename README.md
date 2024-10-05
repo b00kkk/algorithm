@@ -144,3 +144,13 @@
 | 09/26 | 지름길 | Python | [백준 1446](https://www.acmicpc.net/problem/1446)   |
 | 09/27 | 완전 이진 트리 | Python | [백준 9934](https://www.acmicpc.net/problem/9934)   |
 </details>
+
+</details>
+
+<details>
+<summary> ✍️ 2024년 10월 </summary>
+
+| 날짜  | 문제이름      | 언어   |  출처                                                                                |
+| ----- | ------------- | ------ | ------------------------------------------------------------------------------------------- |
+| 10/05 | 다음 소수 | Python | [백준 4134](https://www.acmicpc.net/problem/4134)   |
+</details>
