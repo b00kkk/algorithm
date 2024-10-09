@@ -154,4 +154,5 @@
 | ----- | ------------- | ------ | ------------------------------------------------------------------------------------------- |
 | 10/05 | 다음 소수 | Python | [백준 4134](https://www.acmicpc.net/problem/4134)   |
 | 10/06 | queuestack | Python | [백준 24511](https://www.acmicpc.net/problem/24511)   |
+| 10/09 | 영단어 암기는 괴로워 | Python | [백준 20920](https://www.acmicpc.net/problem/20920)   |
 </details>
