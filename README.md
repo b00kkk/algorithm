@@ -158,4 +158,5 @@
 | 10/11 | 알고리즘 수업 - 병합 정렬 1 | Python | [백준 24060](https://www.acmicpc.net/problem/24060)   |
 | 10/13 | 칸토어 집합 | Python | [백준 4779](https://www.acmicpc.net/problem/4779)   |
 | 10/15 | 별 찍기 - 10 | Python | [백준 2447](https://www.acmicpc.net/problem/2447)   |
+| 10/25 | 하노이 탑 이동 순서 | Python | [백준 11729](https://www.acmicpc.net/problem/11729)   |
 </details>
