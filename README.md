@@ -159,4 +159,5 @@
 | 10/13 | 칸토어 집합 | Python | [백준 4779](https://www.acmicpc.net/problem/4779)   |
 | 10/15 | 별 찍기 - 10 | Python | [백준 2447](https://www.acmicpc.net/problem/2447)   |
 | 10/25 | 하노이 탑 이동 순서 | Python | [백준 11729](https://www.acmicpc.net/problem/11729)   |
+| 10/28 | N-Queen | Python | [백준 9663](https://www.acmicpc.net/problem/9663)   |
 </details>
