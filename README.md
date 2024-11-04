@@ -162,3 +162,13 @@
 | 10/28 | N-Queen | Python | [백준 9663](https://www.acmicpc.net/problem/9663)   |
 | 10/31 | 스도쿠 | Python | [백준 2580](https://www.acmicpc.net/problem/2580)   |
 </details>
+
+
+<details>
+<summary> ✍️ 2024년 11월 </summary>
+
+| 날짜  | 문제이름      | 언어   |  출처                                                                                |
+| ----- | ------------- | ------ | ------------------------------------------------------------------------------------------- |
+| 11/04 | 알고리즘 수업 - 피보나치 수 1 | Python | [백준 24416](https://www.acmicpc.net/problem/24416)   |
+
+</details>
