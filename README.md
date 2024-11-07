@@ -172,5 +172,6 @@
 | 11/04 | 알고리즘 수업 - 피보나치 수 1 | Python | [백준 24416](https://www.acmicpc.net/problem/24416)   |
 | 11/05 | 가장 긴 바이토닉 부분 수열 | Python | [백준 11054](https://www.acmicpc.net/problem/11054)   |
 | 11/06 | 전깃줄 | Python | [백준 2565](https://www.acmicpc.net/problem/2565)   |
+| 11/07 | LCS | Python | [백준 9251](https://www.acmicpc.net/problem/9251)   |
 
 </details>
