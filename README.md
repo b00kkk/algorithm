@@ -173,5 +173,7 @@
 | 11/05 | 가장 긴 바이토닉 부분 수열 | Python | [백준 11054](https://www.acmicpc.net/problem/11054)   |
 | 11/06 | 전깃줄 | Python | [백준 2565](https://www.acmicpc.net/problem/2565)   |
 | 11/07 | LCS | Python | [백준 9251](https://www.acmicpc.net/problem/9251)   |
+| 11/08 | 평범한 배낭 | Python | [백준 12865](https://www.acmicpc.net/problem/12865)   |
+
 
 </details>
