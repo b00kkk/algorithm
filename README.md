@@ -174,6 +174,8 @@
 | 11/06 | 전깃줄 | Python | [백준 2565](https://www.acmicpc.net/problem/2565)   |
 | 11/07 | LCS | Python | [백준 9251](https://www.acmicpc.net/problem/9251)   |
 | 11/08 | 평범한 배낭 | Python | [백준 12865](https://www.acmicpc.net/problem/12865)   |
+| 11/10 | 나머지 합 | Python | [백준 10986](https://www.acmicpc.net/problem/10986)   |
+
 
 
 </details>
