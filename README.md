@@ -176,7 +176,7 @@
 | 11/08 | 평범한 배낭 | Python | [백준 12865](https://www.acmicpc.net/problem/12865)   |
 | 11/10 | 나머지 합 | Python | [백준 10986](https://www.acmicpc.net/problem/10986)   |
 | 11/16 | 다중 항목 선호도 조사 (Large) | Python | [백준 25327](https://www.acmicpc.net/problem/25327)   |
-
+| 11/21 | 삼삼한 수 | Python | [백준 17253](https://www.acmicpc.net/problem/25327)   |
 
 
 </details>
