@@ -178,6 +178,6 @@
 | 11/16 | 다중 항목 선호도 조사 (Large) | Python | [백준 25327](https://www.acmicpc.net/problem/25327)   |
 | 11/21 | 삼삼한 수 | Python | [백준 17253](https://www.acmicpc.net/problem/17253)   |
 | 11/24 | 약속 | Python | [백준 1183](https://www.acmicpc.net/problem/1183)   |
-
+| 11/25 | 표적지 옮기기 | Python | [백준 23973](https://www.acmicpc.net/problem/23973)   |
 
 </details>
