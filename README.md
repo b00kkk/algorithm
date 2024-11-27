@@ -179,5 +179,5 @@
 | 11/21 | 삼삼한 수 | Python | [백준 17253](https://www.acmicpc.net/problem/17253)   |
 | 11/24 | 약속 | Python | [백준 1183](https://www.acmicpc.net/problem/1183)   |
 | 11/25 | 표적지 옮기기 | Python | [백준 23973](https://www.acmicpc.net/problem/23973)   |
-
+| 11/27 | RPG 마스터 오명진 | Python | [백준 22941](https://www.acmicpc.net/problem/22941)   |
 </details>
