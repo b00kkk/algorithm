@@ -193,6 +193,7 @@
 | 12/03 | 특정 거리의 도시 찾기 | Python | [백준 18352](https://www.acmicpc.net/problem/18352)   |
 | 12/04 | 정제헌을 팔자! | Python | [백준 9273](https://www.acmicpc.net/problem/9273)   |
 | 12/08 | 멸종위기의 대장균 찾기 | SQL| [프로그래머스 301651](https://school.programmers.co.kr/learn/courses/30/lessons/301651)   |
+| 12/09 | 상품을 구매한 회원 비율 구하기 | SQL| [프로그래머스 131534](https://school.programmers.co.kr/learn/courses/30/lessons/131534)   |
 
 
 </details>
