@@ -1,7 +1,7 @@
 # 📖 1day_1Algorithm
 
 - Language : Python, SQL
-- Platform : Baekjoon Online Judge, Programmers
+- Platform : Baekjoon Online Judge, Programmers, solvesql
 
 
 <details>
@@ -195,6 +195,6 @@
 | 12/08 | 멸종위기의 대장균 찾기 | SQL| [프로그래머스 301651](https://school.programmers.co.kr/learn/courses/30/lessons/301651)   |
 | 12/09 | 상품을 구매한 회원 비율 구하기 | SQL| [프로그래머스 131534](https://school.programmers.co.kr/learn/courses/30/lessons/131534)   |
 | 12/11 | 어린 왕자 | Python | [백준 1004](https://www.acmicpc.net/problem/1004)   |
-
+| 12/12 | 두 테이블 결합하기 | SQL | [solvesql join](https://solvesql.com/problems/join/)   |
 
 </details>
