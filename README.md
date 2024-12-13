@@ -196,5 +196,6 @@
 | 12/09 | 상품을 구매한 회원 비율 구하기 | SQL| [프로그래머스 131534](https://school.programmers.co.kr/learn/courses/30/lessons/131534)   |
 | 12/11 | 어린 왕자 | Python | [백준 1004](https://www.acmicpc.net/problem/1004)   |
 | 12/12 | 두 테이블 결합하기 | SQL | [solvesql join](https://solvesql.com/problems/join/)   |
+| 12/13 | 레스토랑 웨이터의 팁 분석 | SQL | [solvesql tip-analysis](https://solvesql.com/problems/tip-analysis/)   |
 
 </details>
