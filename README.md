@@ -197,5 +197,5 @@
 | 12/11 | 어린 왕자 | Python | [백준 1004](https://www.acmicpc.net/problem/1004)   |
 | 12/12 | 두 테이블 결합하기 | SQL | [solvesql join](https://solvesql.com/problems/join/)   |
 | 12/13 | 레스토랑 웨이터의 팁 분석 | SQL | [solvesql tip-analysis](https://solvesql.com/problems/tip-analysis/)   |
-
+| 12/14 | 일별 블로그 방문자 수 집계 | SQL | [solvesql blog-counter](https://solvesql.com/problems/blog-counter/)   |
 </details>
