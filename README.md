@@ -198,4 +198,6 @@
 | 12/12 | 두 테이블 결합하기 | SQL | [solvesql join](https://solvesql.com/problems/join/)   |
 | 12/13 | 레스토랑 웨이터의 팁 분석 | SQL | [solvesql tip-analysis](https://solvesql.com/problems/tip-analysis/)   |
 | 12/14 | 일별 블로그 방문자 수 집계 | SQL | [solvesql blog-counter](https://solvesql.com/problems/blog-counter/)   |
+| 12/15 | 우리 플랫폼에 정착한 판매자 2 | SQL | [solvesql settled-sellers-2](https://solvesql.com/problems/settled-sellers-2/)   |
+
 </details>
