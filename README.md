@@ -202,5 +202,6 @@
 | 12/17 | 레스토랑의 일일 매출 | SQL | [solvesql daily-revenue](https://solvesql.com/problems/daily-revenue/)   |
 | 12/18 | 버뮤다 삼각지대에 들어가버린 택배 | SQL | [solvesql shipment-in-bermuda](https://solvesql.com/problems/shipment-in-bermuda/)   |
 | 12/19 | 쇼핑몰의 일일 매출액 | SQL | [solvesql olist-daily-revenue](https://solvesql.com/problems/olist-daily-revenue/)   |
+| 12/20 | 점검이 필요한 자전거 찾기 | SQL | [solvesql inspection-needed-bike](https://solvesql.com/problems/inspection-needed-bike/)   |
 
 </details>
