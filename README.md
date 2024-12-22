@@ -204,6 +204,7 @@
 | 12/19 | 쇼핑몰의 일일 매출액 | SQL | [solvesql olist-daily-revenue](https://solvesql.com/problems/olist-daily-revenue/)   |
 | 12/20 | 점검이 필요한 자전거 찾기 | SQL | [solvesql inspection-needed-bike](https://solvesql.com/problems/inspection-needed-bike/)   |
 | 12/21 | 레스토랑의 대목목 | SQL | [solvesql high-season-of-restaurant](https://solvesql.com/problems/high-season-of-restaurant/)   |
+| 12/22 | 레스토랑의 요일별 VIP | SQL | [solvesql restaurant-vip](https://solvesql.com/problems/restaurant-vip/)   |
 
 
 </details>
