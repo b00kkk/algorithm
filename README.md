@@ -203,8 +203,9 @@
 | 12/18 | 버뮤다 삼각지대에 들어가버린 택배 | SQL | [solvesql shipment-in-bermuda](https://solvesql.com/problems/shipment-in-bermuda/)   |
 | 12/19 | 쇼핑몰의 일일 매출액 | SQL | [solvesql olist-daily-revenue](https://solvesql.com/problems/olist-daily-revenue/)   |
 | 12/20 | 점검이 필요한 자전거 찾기 | SQL | [solvesql inspection-needed-bike](https://solvesql.com/problems/inspection-needed-bike/)   |
-| 12/21 | 레스토랑의 대목목 | SQL | [solvesql high-season-of-restaurant](https://solvesql.com/problems/high-season-of-restaurant/)   |
+| 12/21 | 레스토랑의 대목 | SQL | [solvesql high-season-of-restaurant](https://solvesql.com/problems/high-season-of-restaurant/)   |
 | 12/22 | 레스토랑의 요일별 VIP | SQL | [solvesql restaurant-vip](https://solvesql.com/problems/restaurant-vip/)   |
-| 12/23 | 상자넣기기 | Python | [백준 1965](https://www.acmicpc.net/problem/1965)   |
+| 12/23 | 상자넣기 | Python | [백준 1965](https://www.acmicpc.net/problem/1965)   |
+| 12/24 | 다음날도 서울숲의 미세먼지 농도는 나쁨 | SQL | [solvesql bad-finedust-measure](https://solvesql.com/problems/bad-finedust-measure/)   |
 
 </details>
