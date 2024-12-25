@@ -207,5 +207,6 @@
 | 12/22 | 레스토랑의 요일별 VIP | SQL | [solvesql restaurant-vip](https://solvesql.com/problems/restaurant-vip/)   |
 | 12/23 | 상자넣기 | Python | [백준 1965](https://www.acmicpc.net/problem/1965)   |
 | 12/24 | 다음날도 서울숲의 미세먼지 농도는 나쁨 | SQL | [solvesql bad-finedust-measure](https://solvesql.com/problems/bad-finedust-measure/)   |
+| 12/25 | 제목이 모음으로 끝나지 않는 영화 | SQL | [solvesql film-ending-with-consonant](https://solvesql.com/problems/film-ending-with-consonant/)   |
 
 </details>
