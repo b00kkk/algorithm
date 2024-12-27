@@ -209,5 +209,6 @@
 | 12/24 | 다음날도 서울숲의 미세먼지 농도는 나쁨 | SQL | [solvesql bad-finedust-measure](https://solvesql.com/problems/bad-finedust-measure/)   |
 | 12/25 | 제목이 모음으로 끝나지 않는 영화 | SQL | [solvesql film-ending-with-consonant](https://solvesql.com/problems/film-ending-with-consonant/)   |
 | 12/26 | 언더스코어(_)가 포함되지 않은 데이터 찾기 | SQL | [solvesql data-without-underscore](https://solvesql.com/problems/data-without-underscore/)   |
+| 12/27 | 게임을 10개 이상 발매한 퍼블리셔 찾기기 | SQL | [solvesql publisher-with-many-games](https://solvesql.com/problems/publisher-with-many-games/)   |
 
 </details>
