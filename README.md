@@ -212,5 +212,6 @@
 | 12/27 | 게임을 10개 이상 발매한 퍼블리셔 찾기 | SQL | [solvesql publisher-with-many-games](https://solvesql.com/problems/publisher-with-many-games/)   |
 | 12/28 | 기증품 비율 계산하기 | SQL | [solvesql ratio-of-gifts](https://solvesql.com/problems/ratio-of-gifts/)   |
 | 12/29 | 최대값을 가진 행 찾기 | SQL | [solvesql max-row](https://solvesql.com/problems/max-ros/)   |
+| 12/30 | 3년간 들어온 소장품 집계하기 | SQL | [solvesql summary-of-artworks-in-3-years](https://solvesql.com/problems/summary-of-artworks-in-3-years/)   
 
 </details>
