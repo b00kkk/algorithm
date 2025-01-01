@@ -216,3 +216,11 @@
 | 12/31 | 복수 국적 메달 수상한 선수 찾기 | SQL | [solvesql multiple-medalist](https://solvesql.com/problems/multiple-medalist/)  
 
 </details>
+
+<details>
+<summary> ✍️ 2025년 1월 </summary>
+
+| 날짜  | 문제이름      | 언어   |  출처                                                                                |
+| ----- | ------------- | ------ | ------------------------------------------------------------------------------------------- |
+| 01/01 | 할부는 몇 개월로 해드릴까요 | SQL | [solvesql installment-month](https://solvesql.com/problems/installment-month/)  
+</details>
