@@ -223,5 +223,6 @@
 | 날짜  | 문제이름      | 언어   |  출처                                                                                |
 | ----- | ------------- | ------ | ------------------------------------------------------------------------------------------- |
 | 01/01 | 할부는 몇 개월로 해드릴까요 | SQL | [solvesql installment-month](https://solvesql.com/problems/installment-month/)  
-| 01/02 | 지역별 주문의 특징징 | SQL | [solvesql characteristics-of-orders](https://solvesql.com/problems/characteristics-of-orders/)  
+| 01/02 | 지역별 주문의 특징 | SQL | [solvesql characteristics-of-orders](https://solvesql.com/problems/characteristics-of-orders/) 
+| 01/03 | 배송 예정일 예측 성공과 실패 | SQL | [solvesql estimated-delivery-date](https://solvesql.com/problems/estimated-delivery-date/)  
 </details>
