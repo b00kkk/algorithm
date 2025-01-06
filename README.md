@@ -222,10 +222,10 @@
 
 | 날짜  | 문제이름      | 언어   |  출처                                                                                |
 | ----- | ------------- | ------ | ------------------------------------------------------------------------------------------- |
-
 | 01/01 | 할부는 몇 개월로 해드릴까요 | SQL | [solvesql installment-month](https://solvesql.com/problems/installment-month/)    |
 | 01/02 | 지역별 주문의 특징 | SQL | [solvesql characteristics-of-orders](https://solvesql.com/problems/characteristics-of-orders/)   |
 | 01/03 | 배송 예정일 예측 성공과 실패 | SQL | [solvesql estimated-delivery-date](https://solvesql.com/problems/estimated-delivery-date/)    |
 | 01/06 | 우울한 방학 | Python | [백준 17392](https://www.acmicpc.net/problem/17392)     |
 | 01/07 | 쇼핑몰의 일일 매출액과 ARPPU | SQL | [solvesql daily-arppu](https://solvesql.com/problems/daily-arppu/)    |
+
 </details>
