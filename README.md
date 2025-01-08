@@ -228,4 +228,5 @@
 | 01/03 | 배송 예정일 예측 성공과 실패 | SQL | [solvesql estimated-delivery-date](https://solvesql.com/problems/estimated-delivery-date/)    |
 | 01/06 | 우울한 방학 | Python | [백준 17392](https://www.acmicpc.net/problem/17392)     |
 | 01/07 | 쇼핑몰의 일일 매출액과 ARPPU | SQL | [solvesql daily-arppu](https://solvesql.com/problems/daily-arppu/)    |
+| 01/08 | 체인 | Python | [백준 2785](https://www.acmicpc.net/problem/2785)     |
 </details>
