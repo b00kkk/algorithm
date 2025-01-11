@@ -229,4 +229,6 @@
 | 01/07 | 쇼핑몰의 일일 매출액과 ARPPU | SQL | [solvesql daily-arppu](https://solvesql.com/problems/daily-arppu/)    |
 | 01/08 | 체인 | Python | [백준 2785](https://www.acmicpc.net/problem/2785)     |
 | 01/10 | 멘토링 짝꿍 리스트 | SQL | [solvesql mentor-mentee-list](https://solvesql.com/problems/mentor-mentee-list/)    |
+| 01/11 | 작품이 없는 작가 찾기 | SQL | [solvesql artists-without-artworks](https://solvesql.com/problems/artist-without-artworks/)    |
+
 </details>
