@@ -230,5 +230,6 @@
 | 01/08 | 체인 | Python | [백준 2785](https://www.acmicpc.net/problem/2785)     |
 | 01/10 | 멘토링 짝꿍 리스트 | SQL | [solvesql mentor-mentee-list](https://solvesql.com/problems/mentor-mentee-list/)    |
 | 01/11 | 작품이 없는 작가 찾기 | SQL | [solvesql artists-without-artworks](https://solvesql.com/problems/artist-without-artworks/)    |
+| 01/13 | 암기왕 | Python | [백준 2776](https://www.acmicpc.net/problem/2776)     |
 
 </details>
