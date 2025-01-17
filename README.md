@@ -232,5 +232,6 @@
 | 01/11 | 작품이 없는 작가 찾기 | SQL | [solvesql artists-without-artworks](https://solvesql.com/problems/artist-without-artworks/)    |
 | 01/13 | 암기왕 | Python | [백준 2776](https://www.acmicpc.net/problem/2776)     |
 | 01/15 | 선분 위의 점 | Python | [백준 11663](https://www.acmicpc.net/problem/11663)     |
+| 01/17 | 두 용액 | Python | [백준 2470](https://www.acmicpc.net/problem/2470)     |
 
 </details>
