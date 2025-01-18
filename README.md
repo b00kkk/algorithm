@@ -233,5 +233,6 @@
 | 01/13 | 암기왕 | Python | [백준 2776](https://www.acmicpc.net/problem/2776)     |
 | 01/15 | 선분 위의 점 | Python | [백준 11663](https://www.acmicpc.net/problem/11663)     |
 | 01/17 | 두 용액 | Python | [백준 2470](https://www.acmicpc.net/problem/2470)     |
+| 01/18 | 온라인 쇼핑몰의 월 별 매출액 집계 | SQL | [solvesql shoppingmall-monthly-summary](https://solvesql.com/problems/shoppingmall-monthly-summary/)    |
 
 </details>
