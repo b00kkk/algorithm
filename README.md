@@ -235,5 +235,6 @@
 | 01/17 | 두 용액 | Python | [백준 2470](https://www.acmicpc.net/problem/2470)     |
 | 01/18 | 온라인 쇼핑몰의 월 별 매출액 집계 | SQL | [solvesql shoppingmall-monthly-summary](https://solvesql.com/problems/shoppingmall-monthly-summary/)    |
 | 01/19 | 게임 평점 예측하기 1 | SQL | [solvesql predict-game-scores-1](https://solvesql.com/problems/predict-game-scores-1/)    |
+| 01/20 | DFS와 BFS | Python | [백준 1260](https://www.acmicpc.net/problem/1260)     |
 
 </details>
