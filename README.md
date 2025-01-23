@@ -237,5 +237,7 @@
 | 01/19 | 게임 평점 예측하기 1 | SQL | [solvesql predict-game-scores-1](https://solvesql.com/problems/predict-game-scores-1/)    |
 | 01/20 | DFS와 BFS | Python | [백준 1260](https://www.acmicpc.net/problem/1260)     |
 | 01/21 | 숨바꼭질 | Python | [백준 1697](https://www.acmicpc.net/problem/1697)     |
+| 01/23 | 이분 그래프 | Python | [백준 1707](https://www.acmicpc.net/problem/1707)     |
+
 
 </details>
