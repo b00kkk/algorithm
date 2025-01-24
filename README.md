@@ -238,6 +238,6 @@
 | 01/20 | DFS와 BFS | Python | [백준 1260](https://www.acmicpc.net/problem/1260)     |
 | 01/21 | 숨바꼭질 | Python | [백준 1697](https://www.acmicpc.net/problem/1697)     |
 | 01/23 | 이분 그래프 | Python | [백준 1707](https://www.acmicpc.net/problem/1707)     |
-
+| 01/24 | 빙산 | Python | [백준 2573](https://www.acmicpc.net/problem/2573)     |
 
 </details>
