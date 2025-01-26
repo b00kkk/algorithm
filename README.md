@@ -239,5 +239,6 @@
 | 01/21 | 숨바꼭질 | Python | [백준 1697](https://www.acmicpc.net/problem/1697)     |
 | 01/23 | 이분 그래프 | Python | [백준 1707](https://www.acmicpc.net/problem/1707)     |
 | 01/24 | 빙산 | Python | [백준 2573](https://www.acmicpc.net/problem/2573)     |
+| 01/26 | 서울숲 요일별 대기오염도 계산하기 | SQL | [solvesql weekday-stats-airpollution](https://solvesql.com/problems/weekday-stats-airpollution/)     |
 
 </details>
