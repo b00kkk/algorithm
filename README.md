@@ -240,5 +240,6 @@
 | 01/23 | 이분 그래프 | Python | [백준 1707](https://www.acmicpc.net/problem/1707)     |
 | 01/24 | 빙산 | Python | [백준 2573](https://www.acmicpc.net/problem/2573)     |
 | 01/26 | 서울숲 요일별 대기오염도 계산하기 | SQL | [solvesql weekday-stats-airpollution](https://solvesql.com/problems/weekday-stats-airpollution/)     |
+| 01/28 | 폐쇄할 따릉이 정류소 찾기 2 | SQL | [solvesql find-unnecessary-station-2](https://solvesql.com/problems/find-unnecessary-station-2/)     |
 
 </details>
