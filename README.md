@@ -242,5 +242,6 @@
 | 01/26 | 서울숲 요일별 대기오염도 계산하기 | SQL | [solvesql weekday-stats-airpollution](https://solvesql.com/problems/weekday-stats-airpollution/)     |
 | 01/28 | 폐쇄할 따릉이 정류소 찾기 2 | SQL | [solvesql find-unnecessary-station-2](https://solvesql.com/problems/find-unnecessary-station-2/)     |
 | 01/29 | 멀티 플랫폼 게임 찾기 | SQL | [solvesql multiplatform-games](https://solvesql.com/problems/multiplatform-games/)     |
+| 01/31 | 전국 카페 주소 데이터 정제하기 | SQL | [solvesql refine-cafe-address](https://solvesql.com/problems/refine-cafe-adress/)     |
 
 </details>
