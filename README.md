@@ -245,3 +245,13 @@
 | 01/31 | 전국 카페 주소 데이터 정제하기 | SQL | [solvesql refine-cafe-address](https://solvesql.com/problems/refine-cafe-adress/)     |
 
 </details>
+
+
+<details>
+<summary> ✍️ 2025년 2월 </summary>
+
+| 날짜  | 문제이름      | 언어   |  출처                                                                                |
+| ----- | ------------- | ------ | ------------------------------------------------------------------------------------------- |
+| 02/01 | 입국심사 | Python| [프로그래머스 43238](https://school.programmers.co.kr/learn/courses/30/lessons/43238)   |
+
+</details>
