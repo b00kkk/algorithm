@@ -254,5 +254,6 @@
 | ----- | ------------- | ------ | ------------------------------------------------------------------------------------------- |
 | 02/01 | 입국심사 | Python| [프로그래머스 43238](https://school.programmers.co.kr/learn/courses/30/lessons/43238)   |
 | 02/03 | 체스판 다시 칠하기 | Python | [백준 1018](https://www.acmicpc.net/problem/1018)     |
+| 02/04 | 숫자 정사각형 | Python | [백준 1051](https://www.acmicpc.net/problem/1051)     |
 
 </details>
