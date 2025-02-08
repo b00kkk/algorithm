@@ -256,5 +256,6 @@
 | 02/03 | 체스판 다시 칠하기 | Python | [백준 1018](https://www.acmicpc.net/problem/1018)     |
 | 02/04 | 숫자 정사각형 | Python | [백준 1051](https://www.acmicpc.net/problem/1051)     |
 | 02/06 | 부등호 | Python | [백준 2529](https://www.acmicpc.net/problem/2529)     |
+| 02/08 | 오목 | Python | [백준 2615](https://www.acmicpc.net/problem/2615)     |
 
 </details>
