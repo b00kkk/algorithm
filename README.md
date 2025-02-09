@@ -257,5 +257,6 @@
 | 02/04 | 숫자 정사각형 | Python | [백준 1051](https://www.acmicpc.net/problem/1051)     |
 | 02/06 | 부등호 | Python | [백준 2529](https://www.acmicpc.net/problem/2529)     |
 | 02/08 | 오목 | Python | [백준 2615](https://www.acmicpc.net/problem/2615)     |
+| 02/09 | 치킨 배달 | Python | [백준 15686](https://www.acmicpc.net/problem/15686)     |
 
 </details>
