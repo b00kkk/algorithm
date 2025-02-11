@@ -258,5 +258,6 @@
 | 02/06 | 부등호 | Python | [백준 2529](https://www.acmicpc.net/problem/2529)     |
 | 02/08 | 오목 | Python | [백준 2615](https://www.acmicpc.net/problem/2615)     |
 | 02/09 | 치킨 배달 | Python | [백준 15686](https://www.acmicpc.net/problem/15686)     |
+| 02/11 | 미세먼지 수치의 계절간 차이 | SQL | [solvesql finedust-seasonal-summary](https://solvesql.com/problems/finedust-seasonal-summary/)     |
 
 </details>
