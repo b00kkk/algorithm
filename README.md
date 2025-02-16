@@ -260,5 +260,6 @@
 | 02/09 | 치킨 배달 | Python | [백준 15686](https://www.acmicpc.net/problem/15686)     |
 | 02/11 | 미세먼지 수치의 계절간 차이 | SQL | [solvesql finedust-seasonal-summary](https://solvesql.com/problems/finedust-seasonal-summary/)     |
 | 02/12 | 맥주 축제 | Python | [백준 17503](https://www.acmicpc.net/problem/17503)     |
+| 02/16 | 친구 수 집계하기 | SQL | [solvesql number-of-firends](https://solvesql.com/problems/number-of-friends/)     |
 
 </details>
