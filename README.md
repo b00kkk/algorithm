@@ -261,5 +261,7 @@
 | 02/11 | 미세먼지 수치의 계절간 차이 | SQL | [solvesql finedust-seasonal-summary](https://solvesql.com/problems/finedust-seasonal-summary/)     |
 | 02/12 | 맥주 축제 | Python | [백준 17503](https://www.acmicpc.net/problem/17503)     |
 | 02/16 | 친구 수 집계하기 | SQL | [solvesql number-of-firends](https://solvesql.com/problems/number-of-friends/)     |
+| 02/20 | 합분해 | Python | [백준 2225](https://www.acmicpc.net/problem/2225)     |
+| 02/21 | 무한 수열 | Python | [백준 1351](https://www.acmicpc.net/problem/1351)     |
 
 </details>
