@@ -263,5 +263,6 @@
 | 02/16 | 친구 수 집계하기 | SQL | [solvesql number-of-firends](https://solvesql.com/problems/number-of-friends/)     |
 | 02/20 | 합분해 | Python | [백준 2225](https://www.acmicpc.net/problem/2225)     |
 | 02/21 | 무한 수열 | Python | [백준 1351](https://www.acmicpc.net/problem/1351)     |
+| 02/22 | 가구 판매의 비중이 높았던 날 찾기 | SQL | [solvesql day-of-furniture](https://solvesql.com/problems/day-of-furniture/)     |
 
 </details>
