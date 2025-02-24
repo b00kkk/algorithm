@@ -264,5 +264,6 @@
 | 02/20 | 합분해 | Python | [백준 2225](https://www.acmicpc.net/problem/2225)     |
 | 02/21 | 무한 수열 | Python | [백준 1351](https://www.acmicpc.net/problem/1351)     |
 | 02/22 | 가구 판매의 비중이 높았던 날 찾기 | SQL | [solvesql day-of-furniture](https://solvesql.com/problems/day-of-furniture/)     |
+| 02/24 | 레스토랑 요일 별 구매금액 Top 3 영수증 | SQL | [solvesql top-3-bill](https://solvesql.com/problems/top-3-bill/)     |
 
 </details>
