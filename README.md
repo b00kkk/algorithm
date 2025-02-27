@@ -267,5 +267,6 @@
 | 02/24 | 레스토랑 요일 별 구매금액 Top 3 영수증 | SQL | [solvesql top-3-bill](https://solvesql.com/problems/top-3-bill/)     |
 | 02/25 | 게임 개발사의 주력 플랫폼 찾기 | SQL | [solvesql main-platform-of-game-developers](https://solvesql.com/problems/main-platform-of-game-developer/)     |
 | 02/26 | 전력 소비량 이동 평균 구하기 | SQL | [solvesql moving-average-of-power-consumption](https://solvesql.com/problems/moving-average-of-power-consumption/)     |
+| 02/27 | 펭귄 날개와 몸무게의 상관 계수 | SQL | [solvesql correlation-penguin](https://solvesql.com/problems/correlation-penguin/)     |
 
 </details>
