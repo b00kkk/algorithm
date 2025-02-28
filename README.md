@@ -268,5 +268,7 @@
 | 02/25 | 게임 개발사의 주력 플랫폼 찾기 | SQL | [solvesql main-platform-of-game-developers](https://solvesql.com/problems/main-platform-of-game-developer/)     |
 | 02/26 | 전력 소비량 이동 평균 구하기 | SQL | [solvesql moving-average-of-power-consumption](https://solvesql.com/problems/moving-average-of-power-consumption/)     |
 | 02/27 | 펭귄 날개와 몸무게의 상관 계수 | SQL | [solvesql correlation-penguin](https://solvesql.com/problems/correlation-penguin/)     |
+| 02/28 | 유량(Flow)와 저량(Stock) | SQL | [solvesql flow-and-stock](https://solvesql.com/problems/flow-and-stock/)     |
+
 
 </details>
