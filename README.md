@@ -271,3 +271,12 @@
 | 02/28 | 유량(Flow)와 저량(Stock) | SQL | [solvesql flow-and-stock](https://solvesql.com/problems/flow-and-stock/)     |
 
 </details>
+
+<details>
+<summary> ✍️ 2025년 3월 </summary>
+
+| 날짜  | 문제이름      | 언어   |  출처                                                                                |
+| ----- | ------------- | ------ | ------------------------------------------------------------------------------------------- |
+| 03/04 | 세 명이 서로 친구인 관계 찾기 | SQL | [solvesql friend-group-of-3](https://solvesql.com/problems/friend-group-of-3/)     |
+
+</details>
