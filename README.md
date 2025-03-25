@@ -279,5 +279,6 @@
 | ----- | ------------- | ------ | ------------------------------------------------------------------------------------------- |
 | 03/04 | 세 명이 서로 친구인 관계 찾기 | SQL | [solvesql friend-group-of-3](https://solvesql.com/problems/friend-group-of-3/)     |
 | 03/20 | 4와 7 | Python | [백준 2877](https://www.acmicpc.net/problem/2877)     |
+| 03/25 | N과 M (12) | Python | [백준 15666](https://www.acmicpc.net/problem/15666)     |
 
 </details>
