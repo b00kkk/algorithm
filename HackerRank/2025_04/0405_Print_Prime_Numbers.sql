@@ -1,0 +1,16 @@
+--Print Prime Numbers
+WITH RECURSIVE NUM AS (
+SELECT 2 AS i
+UNION ALL
+SELECT i+1
+FROM NUM
+WHERE i<1000)
+
+SELECT GROUP_CONCAT(i SEPARATOR '&')
+FROM NUM AS out_NUM
+WHERE NOT EXISTS(
+    SELECT 1
+    FROM NUM AS in_NUM
+    WHERE in_NUM.i < out_NUM.i
+    AND in_NUM.i > 1
+    AND MOD(out_NUM.i,in_NUM.i)=0)

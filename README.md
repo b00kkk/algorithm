@@ -1,7 +1,7 @@
 # 📖 1day_1Algorithm
 
 - Language : Python, SQL
-- Platform : Baekjoon Online Judge, Programmers, solvesql
+- Platform : Baekjoon Online Judge, Programmers, solvesql, HackerRank
 
 
 <details>
@@ -281,5 +281,14 @@
 | 03/20 | 4와 7 | Python | [백준 2877](https://www.acmicpc.net/problem/2877)     |
 | 03/25 | N과 M (12) | Python | [백준 15666](https://www.acmicpc.net/problem/15666)     |
 | 03/27 | 뱀 | Python | [백준 3190](https://www.acmicpc.net/problem/3190)     |
+
+</details>
+
+<details>
+<summary> ✍️ 2025년 4월 </summary>
+
+| 날짜  | 문제이름      | 언어   |  출처                                                                                |
+| ----- | ------------- | ------ | ------------------------------------------------------------------------------------------- |
+| 03/04 | Print Prime Numbers | SQL | [HackerRank Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/submissions/code/428373753)     |
 
 </details>
