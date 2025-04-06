@@ -289,6 +289,7 @@
 
 | 날짜  | 문제이름      | 언어   |  출처                                                                                |
 | ----- | ------------- | ------ | ------------------------------------------------------------------------------------------- |
-| 03/04 | Print Prime Numbers | SQL | [HackerRank Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/submissions/code/428373753)     |
+| 04/05 | Print Prime Numbers | SQL | [HackerRank Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem)     |
+| 04/06 | Weather Observation Station 20 | SQL | [HackerRank Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem)     |
 
 </details>
