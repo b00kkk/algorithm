@@ -292,5 +292,6 @@
 | 04/05 | Print Prime Numbers | SQL | [HackerRank Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem)     |
 | 04/06 | Weather Observation Station 20 | SQL | [HackerRank Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem)     |
 | 04/10 | The PADS | SQL | [HackerRank The PADS](https://www.hackerrank.com/challenges/the-pads/problem)     |
+| 04/13 | 마인크래프트 | Python | [백준 18111](https://www.acmicpc.net/problem/18111)     |
 
 </details>
