@@ -296,5 +296,6 @@
 | 04/19 | 네트워크 | Python| [프로그래머스 43162](https://school.programmers.co.kr/learn/courses/30/lessons/43162)   |
 | 04/23 | 이중 우선순위 큐 | Python | [백준 7662](https://www.acmicpc.net/problem/7662)     |
 | 04/24 | 가장 긴 팰린드롬 | Python| [프로그래머스 12904](https://school.programmers.co.kr/learn/courses/30/lessons/12904)   |
+| 04/25 | 적록색약 | Python | [백준 10026](https://www.acmicpc.net/problem/10026)     |
 
 </details>
