@@ -298,5 +298,6 @@
 | 04/24 | 가장 긴 팰린드롬 | Python| [프로그래머스 12904](https://school.programmers.co.kr/learn/courses/30/lessons/12904)   |
 | 04/25 | 적록색약 | Python | [백준 10026](https://www.acmicpc.net/problem/10026)     |
 | 04/26 | 거스름돈 | Python| [프로그래머스 12907](https://school.programmers.co.kr/learn/courses/30/lessons/12907)   |
+| 04/27 | N번째 큰 수 | Python | [백준 2075](https://www.acmicpc.net/problem/2075)     |
 
 </details>
