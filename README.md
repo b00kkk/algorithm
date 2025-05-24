@@ -311,6 +311,6 @@
 | 05/10 | 재밌는 나머지 연산 | Python | [백준 28138](https://www.acmicpc.net/problem/28138)     |
 | 05/17 | 토마토 | Python | [백준 7569](https://www.acmicpc.net/problem/7569)     |
 | 05/23 | 선입 선출 스케줄링 | Python| [프로그래머스 12920](https://school.programmers.co.kr/learn/courses/30/lessons/12920)   |
-
+| 05/24 | 회전하는 큐 | Python | [백준 1021](https://www.acmicpc.net/problem/1021)     |
 
 </details>
