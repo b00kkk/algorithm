@@ -313,5 +313,6 @@
 | 05/23 | 선입 선출 스케줄링 | Python| [프로그래머스 12920](https://school.programmers.co.kr/learn/courses/30/lessons/12920)   |
 | 05/24 | 회전하는 큐 | Python | [백준 1021](https://www.acmicpc.net/problem/1021)     |
 | 05/25 | 요세푸스 문제0 | Python | [백준 11866](https://www.acmicpc.net/problem/11866)     |
+| 05/26 | DSLR | Python | [백준 9019](https://www.acmicpc.net/problem/9019)     |
 
 </details>
