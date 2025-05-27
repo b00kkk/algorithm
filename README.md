@@ -314,5 +314,6 @@
 | 05/24 | 회전하는 큐 | Python | [백준 1021](https://www.acmicpc.net/problem/1021)     |
 | 05/25 | 요세푸스 문제0 | Python | [백준 11866](https://www.acmicpc.net/problem/11866)     |
 | 05/26 | DSLR | Python | [백준 9019](https://www.acmicpc.net/problem/9019)     |
+| 05/27 | 먹을 것인가 먹힐 것인가 | Python | [백준 7795](https://www.acmicpc.net/problem/7795)     |
 
 </details>
