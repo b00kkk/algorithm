@@ -315,5 +315,6 @@
 | 05/25 | 요세푸스 문제0 | Python | [백준 11866](https://www.acmicpc.net/problem/11866)     |
 | 05/26 | DSLR | Python | [백준 9019](https://www.acmicpc.net/problem/9019)     |
 | 05/27 | 먹을 것인가 먹힐 것인가 | Python | [백준 7795](https://www.acmicpc.net/problem/7795)     |
+| 05/28 | 뱀과 사다리 게임 | Python | [백준 16928](https://www.acmicpc.net/problem/16928)     |
 
 </details>
