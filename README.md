@@ -328,5 +328,6 @@
 | 06/05 | AC | Python | [백준 5430](https://www.acmicpc.net/problem/5430)     |
 | 06/06 | 폐쇠할 따릉이 정류소 찾기 1 | SQL | [solvesql find-unnecessary-station-1](https://solvesql.com/problems/find-unnecessary-station-1/)     |
 | 06/07 | 카테고리 별 매출 비율 | SQL | [solvesql revenue-pct-per-category](https://solvesql.com/problems/revenue-pct-per-category/)     |
+| 06/08 | 세션 정의하기 | SQL | [solvesql redefine-session](https://solvesql.com/problems/redefine-session/)     |
 
 </details>
