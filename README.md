@@ -330,5 +330,6 @@
 | 06/07 | 카테고리 별 매출 비율 | SQL | [solvesql revenue-pct-per-category](https://solvesql.com/problems/revenue-pct-per-category/)     |
 | 06/08 | 세션 정의하기 | SQL | [solvesql redefine-session](https://solvesql.com/problems/redefine-session/)     |
 | 06/09 | 스테디셀러 작가 찾기 | SQL | [solvesql find-steadyseller-writers](https://solvesql.com/problems/find-steadyseller-writers/)     |
+| 06/10 | 세션 유지 시간을 10분으로 재정의하기 | SQL | [solvesql redefine-session-2](https://solvesql.com/problems/redefine-session-2/)     |
 
 </details>
