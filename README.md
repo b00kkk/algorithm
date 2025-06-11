@@ -113,7 +113,6 @@
 | 09/04 | 골드바흐의 추측 | Python | [백준 6588](https://www.acmicpc.net/problem/6588)   |
 |       | 우유와 요거트가 담긴 장바구니 | SQL | [프로그래머스 62284](https://school.programmers.co.kr/learn/courses/30/lessons/62284)   |
 | 09/05 | 1로 만들기 2 | Python | [백준 12852](https://www.acmicpc.net/problem/12852)   |
-|       | 식료품별 가장 비싼 식품의 정보 조회하기 | SQL | [프로그래머스 131116](https://school.programmers.co.kr/learn/courses/30/lessons/131116)   |
 | 09/06 | 기타 레슨 | Python | [백준 2343](https://www.acmicpc.net/problem/2343)   |
 |       | 5월 식품들의 총매출 조회하기 | SQL | [프로그래머스 131117](https://school.programmers.co.kr/learn/courses/30/lessons/131117)   |
 | 09/07 | 행렬 | Python | [백준 1080](https://www.acmicpc.net/problem/1080)   |
@@ -331,5 +330,6 @@
 | 06/08 | 세션 정의하기 | SQL | [solvesql redefine-session](https://solvesql.com/problems/redefine-session/)     |
 | 06/09 | 스테디셀러 작가 찾기 | SQL | [solvesql find-steadyseller-writers](https://solvesql.com/problems/find-steadyseller-writers/)     |
 | 06/10 | 세션 유지 시간을 10분으로 재정의하기 | SQL | [solvesql redefine-session-2](https://solvesql.com/problems/redefine-session-2/)     |
+| 06/11 | 식료분류별 가장 비싼 식품의 정보 조회하기 | SQL | [프로그래머스 131116](https://school.programmers.co.kr/learn/courses/30/lessons/131116)   |
 
 </details>
