@@ -331,5 +331,6 @@
 | 06/09 | 스테디셀러 작가 찾기 | SQL | [solvesql find-steadyseller-writers](https://solvesql.com/problems/find-steadyseller-writers/)     |
 | 06/10 | 세션 유지 시간을 10분으로 재정의하기 | SQL | [solvesql redefine-session-2](https://solvesql.com/problems/redefine-session-2/)     |
 | 06/11 | 식품분류별 가장 비싼 식품의 정보 조회하기 | SQL | [프로그래머스 131116](https://school.programmers.co.kr/learn/courses/30/lessons/131116)   |
+| 06/12 | 테트로미노 | Python | [백준 5430](https://www.acmicpc.net/problem/14500)     |
 
 </details>
