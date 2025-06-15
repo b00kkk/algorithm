@@ -334,5 +334,7 @@
 | 06/12 | 테트로미노 | Python | [백준 14500](https://www.acmicpc.net/problem/14500)     |
 | 06/13 | 오큰수 | Python | [백준 17298](https://www.acmicpc.net/problem/17298)     |
 | 06/14 | 더하기 사이클 | Python | [백준 1110](https://www.acmicpc.net/problem/1110)     |
+| 06/15 | 최소비용 구하기 | Python | [백준 1916](https://www.acmicpc.net/problem/1916)     |
+
 
 </details>
