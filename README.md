@@ -336,5 +336,6 @@
 | 06/14 | 더하기 사이클 | Python | [백준 1110](https://www.acmicpc.net/problem/1110)     |
 | 06/15 | 최소비용 구하기 | Python | [백준 1916](https://www.acmicpc.net/problem/1916)     |
 | 06/16 | 1,2,3 더하기 5 | Python | [백준 15990](https://www.acmicpc.net/problem/15990)     |
+| 06/17 | 암호 만들기 | Python | [백준 1759](https://www.acmicpc.net/problem/1759)     |
 
 </details>
