@@ -338,6 +338,6 @@
 | 06/16 | 1,2,3 더하기 5 | Python | [백준 15990](https://www.acmicpc.net/problem/15990)     |
 | 06/17 | 암호 만들기 | Python | [백준 1759](https://www.acmicpc.net/problem/1759)     |
 | 06/18 | 링 | Python | [백준 3036](https://www.acmicpc.net/problem/3036)     |
-
+| 06/22 | 방 번호 | Python | [백준 1475](https://www.acmicpc.net/problem/1475)     |
 
 </details>
