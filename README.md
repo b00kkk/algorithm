@@ -340,5 +340,6 @@
 | 06/18 | 링 | Python | [백준 3036](https://www.acmicpc.net/problem/3036)     |
 | 06/22 | 방 번호 | Python | [백준 1475](https://www.acmicpc.net/problem/1475)     |
 | 06/23 | 공유기 설치 | Python | [백준 2110](https://www.acmicpc.net/problem/2110)     |
+| 06/24 | 문자열 폭발 | Python | [백준 9935](https://www.acmicpc.net/problem/9935)     |
 
 </details>
