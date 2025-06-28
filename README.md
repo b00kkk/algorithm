@@ -343,5 +343,6 @@
 | 06/24 | 문자열 폭발 | Python | [백준 9935](https://www.acmicpc.net/problem/9935)     |
 | 06/26 | K번째 수 | Python | [백준 1300](https://www.acmicpc.net/problem/1300)     |
 | 06/27 | 뒤집기 | Python | [백준 1439](https://www.acmicpc.net/problem/1439)     |
+| 06/28 | 체스판 다시 칠하기 2 | Python | [백준 25682](https://www.acmicpc.net/problem/25682)     |
 
 </details>
