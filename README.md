@@ -344,5 +344,7 @@
 | 06/26 | K번째 수 | Python | [백준 1300](https://www.acmicpc.net/problem/1300)     |
 | 06/27 | 뒤집기 | Python | [백준 1439](https://www.acmicpc.net/problem/1439)     |
 | 06/28 | 체스판 다시 칠하기 2 | Python | [백준 25682](https://www.acmicpc.net/problem/25682)     |
+| 06/29 | 국영수 | Python | [백준 10825](https://www.acmicpc.net/problem/10825)     |
+
 
 </details>
