@@ -345,6 +345,6 @@
 | 06/27 | 뒤집기 | Python | [백준 1439](https://www.acmicpc.net/problem/1439)     |
 | 06/28 | 체스판 다시 칠하기 2 | Python | [백준 25682](https://www.acmicpc.net/problem/25682)     |
 | 06/29 | 국영수 | Python | [백준 10825](https://www.acmicpc.net/problem/10825)     |
-
+| 06/30 | 손익분기점 | Python | [백준 1712](https://www.acmicpc.net/problem/1712)     |
 
 </details>
