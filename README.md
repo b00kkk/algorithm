@@ -357,5 +357,6 @@
 | 09/13 | 쇠막대기 | Python | [백준 10799](https://www.acmicpc.net/problem/10799)     |
 | 09/16 | 프린터 큐 | Python | [백준 1966](https://www.acmicpc.net/problem/1966)     |
 | 09/19 | 카드2 | Python | [백준 2164](https://www.acmicpc.net/problem/2164)     |
+| 09/21| Z | Python | [백준 1074](https://www.acmicpc.net/problem/1074)     |
 
 </details>
