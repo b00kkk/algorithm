@@ -358,5 +358,6 @@
 | 09/16 | 프린터 큐 | Python | [백준 1966](https://www.acmicpc.net/problem/1966)     |
 | 09/19 | 카드2 | Python | [백준 2164](https://www.acmicpc.net/problem/2164)     |
 | 09/21| Z | Python | [백준 1074](https://www.acmicpc.net/problem/1074)     |
+| 09/23| 쿼드트리 | Python | [백준 1992](https://www.acmicpc.net/problem/1992)     |
 
 </details>
