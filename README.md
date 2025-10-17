@@ -377,6 +377,6 @@
 | 10/14 | 화살표 그리기 | Python | [백준 15970](https://www.acmicpc.net/problem/15970)     |
 | 10/15 | 선물 | Python | [백준 1166](https://www.acmicpc.net/problem/1166)     |
 | 10/16 | 영웅이는 2의 거듭 제곱을 좋아해! | Python | [백준 20153](https://www.acmicpc.net/problem/20513)     |
-
+| 10/17 | 개구리 | Python | [백준 23797](https://www.acmicpc.net/problem/23797)     |
 
 </details>
