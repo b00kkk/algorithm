@@ -379,5 +379,6 @@
 | 10/16 | 영웅이는 2의 거듭 제곱을 좋아해! | Python | [백준 20153](https://www.acmicpc.net/problem/20513)     |
 | 10/17 | 개구리 | Python | [백준 23797](https://www.acmicpc.net/problem/23797)     |
 | 10/18 | 지구 온난화 | Python | [백준 5212](https://www.acmicpc.net/problem/5212)     |
+| 10/19 | 행사 준비 | Python | [백준 30022](https://www.acmicpc.net/problem/30022)     |
 
 </details>
