@@ -381,6 +381,7 @@
 | 10/18 | 지구 온난화 | Python | [백준 5212](https://www.acmicpc.net/problem/5212)     |
 | 10/19 | 행사 준비 | Python | [백준 30022](https://www.acmicpc.net/problem/30022)     |
 | 10/20 | 사탕 게임 | Python | [백준 3085](https://www.acmicpc.net/problem/3085)     |
-| 10/231 | JadenCase 문자열 만들기 | Python| [프로그래머스 12951](https://school.programmers.co.kr/learn/courses/30/lessons/12951)   |
+| 10/21 | JadenCase 문자열 만들기 | Python| [프로그래머스 12951](https://school.programmers.co.kr/learn/courses/30/lessons/12951)   |
+| 10/22 | 이중우선순위큐 | Python| [프로그래머스 42628](https://school.programmers.co.kr/learn/courses/30/lessons/42628)   |
 
 </details>
