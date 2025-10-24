@@ -383,6 +383,7 @@
 | 10/20 | 사탕 게임 | Python | [백준 3085](https://www.acmicpc.net/problem/3085)     |
 | 10/21 | JadenCase 문자열 만들기 | Python| [프로그래머스 12951](https://school.programmers.co.kr/learn/courses/30/lessons/12951)   |
 | 10/22 | 이중우선순위큐 | Python| [프로그래머스 42628](https://school.programmers.co.kr/learn/courses/30/lessons/42628)   |
-| 10/22 | 야근 지수 | Python| [프로그래머스 12927](https://school.programmers.co.kr/learn/courses/30/lessons/12927)   |
+| 10/23 | 야근 지수 | Python| [프로그래머스 12927](https://school.programmers.co.kr/learn/courses/30/lessons/12927)   |
+| 10/24 | 단어 변환 | Python| [프로그래머스 43163](https://school.programmers.co.kr/learn/courses/30/lessons/43163)   |
 
 </details>
