@@ -385,5 +385,6 @@
 | 10/22 | 이중우선순위큐 | Python| [프로그래머스 42628](https://school.programmers.co.kr/learn/courses/30/lessons/42628)   |
 | 10/23 | 야근 지수 | Python| [프로그래머스 12927](https://school.programmers.co.kr/learn/courses/30/lessons/12927)   |
 | 10/24 | 단어 변환 | Python| [프로그래머스 43163](https://school.programmers.co.kr/learn/courses/30/lessons/43163)   |
+| 10/25 | 최고의 집합 | Python| [프로그래머스 12938](https://school.programmers.co.kr/learn/courses/30/lessons/12938)   |
 
 </details>
