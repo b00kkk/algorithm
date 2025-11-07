@@ -398,5 +398,6 @@
 | 11/03 | 회의실 배정 | Python | [백준 1931](https://www.acmicpc.net/problem/1931)     |
 | 11/04 | 토마토 | Python | [백준 7576](https://www.acmicpc.net/problem/7576)     |
 | 11/05 | 효율적인 해킹 | Python | [백준 1325](https://www.acmicpc.net/problem/1325)     |
+| 11/07 | 케빈 베이컨의 6단계 법칙 | Python | [백준 1389](https://www.acmicpc.net/problem/1389)     |
 
 </details>
