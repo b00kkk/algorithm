@@ -400,5 +400,6 @@
 | 11/05 | 효율적인 해킹 | Python | [백준 1325](https://www.acmicpc.net/problem/1325)     |
 | 11/07 | 케빈 베이컨의 6단계 법칙 | Python | [백준 1389](https://www.acmicpc.net/problem/1389)     |
 | 11/11 | 정수 삼각형 | Python | [백준 1932](https://www.acmicpc.net/problem/1932)     |
+| 11/13 | 미로 탐색 | Python | [백준 2178](https://www.acmicpc.net/problem/2178)     |
 
 </details>
