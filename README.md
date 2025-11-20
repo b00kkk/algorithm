@@ -404,5 +404,6 @@
 | 11/14 | 안전 영역 | Python | [백준 2468](https://www.acmicpc.net/problem/2468)     |
 | 11/16 | 단지번호붙이기 | Python | [백준 2667](https://www.acmicpc.net/problem/2667)     |
 | 11/18 | 스티커 | Python | [백준 9465](https://www.acmicpc.net/problem/9465)     |
+| 11/20 | 쉬운 계단 수 | Python | [백준 10844](https://www.acmicpc.net/problem/10844)     |
 
 </details>
