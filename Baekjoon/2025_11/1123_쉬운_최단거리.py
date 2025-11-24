@@ -1,7 +1,9 @@
 # BOJ 14940
 import sys
 from collections import deque
-n,m=map(int,sys.stdin.readline().split())
+input=sys.stdin.readline
+
+n,m=map(int, input().split())
 r=[list(map(int,sys.stdin.readline().split())) for _ in range(n)]
 result=[[0]*m for _ in range(n)]
 q=deque()
