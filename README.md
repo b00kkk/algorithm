@@ -410,5 +410,6 @@
 | 11/24 | 잃어버린 괄호 | Python | [백준 1541](https://www.acmicpc.net/problem/1541)     |
 | 11/25 | 제곱수의 합 | Python | [백준 1699](https://www.acmicpc.net/problem/1699)     |
 | 11/29 | 종이의 개수 | Python | [백준 1780](https://www.acmicpc.net/problem/1780)     |
+| 11/30 | 스택 수열 | Python | [백준 1874](https://www.acmicpc.net/problem/1874)     |
 
 </details>
