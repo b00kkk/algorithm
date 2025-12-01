@@ -412,4 +412,15 @@
 | 11/29 | 종이의 개수 | Python | [백준 1780](https://www.acmicpc.net/problem/1780)     |
 | 11/30 | 스택 수열 | Python | [백준 1874](https://www.acmicpc.net/problem/1874)     |
 
+
+</details>
+
+<details>
+<summary> ✍️ 2025년 12월 </summary>
+
+| 날짜  | 문제이름      | 언어   |  출처                                                                                |
+| ----- | ------------- | ------ | ------------------------------------------------------------------------------------------- |
+| 12/01 | 예산 | Python | [백준 2512](https://www.acmicpc.net/problem/2512)     |
+
+
 </details>
