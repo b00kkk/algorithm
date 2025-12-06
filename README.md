@@ -424,5 +424,6 @@
 | 12/03 | 색종이 만들기 | Python | [백준 2630](https://www.acmicpc.net/problem/2630)     |
 | 12/04 | 촌수계산 | Python | [백준 2644](https://www.acmicpc.net/problem/2644)     |
 | 12/05 | 역습 | Python | [백준 3976](https://www.acmicpc.net/problem/3976)     |
+| 12/06 | 신나는 함수 실행 | Python | [백준 9184](https://www.acmicpc.net/problem/9184)     |
 
 </details>
