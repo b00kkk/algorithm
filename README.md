@@ -425,5 +425,7 @@
 | 12/04 | 촌수계산 | Python | [백준 2644](https://www.acmicpc.net/problem/2644)     |
 | 12/05 | 역습 | Python | [백준 3976](https://www.acmicpc.net/problem/3976)     |
 | 12/06 | 신나는 함수 실행 | Python | [백준 9184](https://www.acmicpc.net/problem/9184)     |
+| 12/07 | 차이를 최대로 | Python | [백준 10819](https://www.acmicpc.net/problem/10819)     |
+
 
 </details>
