@@ -427,5 +427,6 @@
 | 12/06 | 신나는 함수 실행 | Python | [백준 9184](https://www.acmicpc.net/problem/9184)     |
 | 12/07 | 차이를 최대로 | Python | [백준 10819](https://www.acmicpc.net/problem/10819)     |
 | 12/08 | 장난감 자물쇠 | Python | [백준 32373](https://www.acmicpc.net/problem/32373)     |
+| 12/09 | 외판원 순회 2 | Python | [백준 10971](https://www.acmicpc.net/problem/10971)     |
 
 </details>
