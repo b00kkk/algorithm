@@ -428,5 +428,6 @@
 | 12/07 | 차이를 최대로 | Python | [백준 10819](https://www.acmicpc.net/problem/10819)     |
 | 12/08 | 장난감 자물쇠 | Python | [백준 32373](https://www.acmicpc.net/problem/32373)     |
 | 12/09 | 외판원 순회 2 | Python | [백준 10971](https://www.acmicpc.net/problem/10971)     |
+| 12/10 | 가장 긴 증가하는 부분 수열 | Python | [백준 11053](https://www.acmicpc.net/problem/11053)     | 
 
 </details>
