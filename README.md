@@ -432,5 +432,6 @@
 | 12/11 | 두 수의 합 | Python | [백준 3273](https://www.acmicpc.net/problem/3273)     | 
 | 12/12 | 최대 힙 | Python | [백준 11279](https://www.acmicpc.net/problem/11279)     | 
 | 12/13 | 연결 요소의 개수 | Python | [백준 11724](https://www.acmicpc.net/problem/11724)     | 
+| 12/14 | 좌표 압축 | Python | [백준 18870](https://www.acmicpc.net/problem/18870)     | 
 
 </details>
