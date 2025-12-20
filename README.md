@@ -435,6 +435,7 @@
 | 12/14 | 좌표 압축 | Python | [백준 18870](https://www.acmicpc.net/problem/18870)     | 
 | 12/15 | 재밌는 나머지 연산 | Python | [백준 28183](https://www.acmicpc.net/problem/28183)     | 
 | 12/16 | 피보나치 함수 | Python | [백준 1003](https://www.acmicpc.net/problem/1003)     | 
-| 12/18 | 1로 만들기 | Python | [백준 1463](https://www.acmicpc.net/problem/1463)     | 
+| 12/18 | 1로 만들기 | Python | [백준 1463](https://www.acmicpc.net/problem/1463)     |
+| 12/20 | 분수 합 | Python | [백준 1735](https://www.acmicpc.net/problem/1735)     |
 
 </details>
