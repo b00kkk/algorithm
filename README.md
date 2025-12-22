@@ -438,5 +438,6 @@
 | 12/18 | 1로 만들기 | Python | [백준 1463](https://www.acmicpc.net/problem/1463)     |
 | 12/20 | 분수 합 | Python | [백준 1735](https://www.acmicpc.net/problem/1735)     |
 | 12/21 | 01타일 | Python | [백준 1904](https://www.acmicpc.net/problem/1904)     |
+| 12/22 | 블로그2 | Python | [백준 20365](https://www.acmicpc.net/problem/20365)     |
 
 </details>
