@@ -439,5 +439,6 @@
 | 12/20 | 분수 합 | Python | [백준 1735](https://www.acmicpc.net/problem/1735)     |
 | 12/21 | 01타일 | Python | [백준 1904](https://www.acmicpc.net/problem/1904)     |
 | 12/22 | 블로그2 | Python | [백준 20365](https://www.acmicpc.net/problem/20365)     |
+| 12/24 | 이친수 | Python | [백준 2193](https://www.acmicpc.net/problem/2193)     |
 
 </details>
