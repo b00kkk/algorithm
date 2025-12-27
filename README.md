@@ -441,5 +441,6 @@
 | 12/22 | 블로그2 | Python | [백준 20365](https://www.acmicpc.net/problem/20365)     |
 | 12/24 | 이친수 | Python | [백준 2193](https://www.acmicpc.net/problem/2193)     |
 | 12/26 | 풍선 터뜨리기 | Python | [백준 2346](https://www.acmicpc.net/problem/2346)     |
+| 12/27 | 계단 오르기 | Python | [백준 2579](https://www.acmicpc.net/problem/2579)     |
 
 </details>
