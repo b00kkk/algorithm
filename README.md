@@ -442,5 +442,6 @@
 | 12/24 | 이친수 | Python | [백준 2193](https://www.acmicpc.net/problem/2193)     |
 | 12/26 | 풍선 터뜨리기 | Python | [백준 2346](https://www.acmicpc.net/problem/2346)     |
 | 12/27 | 계단 오르기 | Python | [백준 2579](https://www.acmicpc.net/problem/2579)     |
+| 12/28 | 바이러스 | Python | [백준 2606](https://www.acmicpc.net/problem/2606)     |
 
 </details>
