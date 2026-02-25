@@ -445,3 +445,12 @@
 | 12/28 | 바이러스 | Python | [백준 2606](https://www.acmicpc.net/problem/2606)     |
 
 </details>
+
+<details>
+<summary> ✍️ 2026년 02월 </summary>
+| 날짜  | 문제이름      | 언어   |  출처                                                                                |
+| ----- | ------------- | ------ | ------------------------------------------------------------------------------------------- |
+| 02/25 | 등굣길 | Python| [프로그래머스 42898](https://school.programmers.co.kr/learn/courses/30/lessons/42898)   |
+
+
+</details>
