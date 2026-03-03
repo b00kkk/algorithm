@@ -462,7 +462,7 @@
 
 | 날짜  | 문제이름      | 언어   |  출처                                                                                |
 | ----- | ------------- | ------ | ------------------------------------------------------------------------------------------- |
-| 03/03 | Population_Census | SQL| [HackerRank asian-population](https://www.hackerrank.com/challenges/asian-population/problem)   |
+| 03/03 | asian-population | SQL| [HackerRank asian-population](https://www.hackerrank.com/challenges/asian-population/problem)   |
 
 
 </details>
