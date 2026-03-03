@@ -448,9 +448,21 @@
 
 <details>
 <summary> ✍️ 2026년 02월 </summary>
+
 | 날짜  | 문제이름      | 언어   |  출처                                                                                |
 | ----- | ------------- | ------ | ------------------------------------------------------------------------------------------- |
 | 02/25 | 등굣길 | Python| [프로그래머스 42898](https://school.programmers.co.kr/learn/courses/30/lessons/42898)   |
 | 02/26 | 단속카메라 | Python| [프로그래머스 42884](https://school.programmers.co.kr/learn/courses/30/lessons/42884)   |
+
+
+</details>
+
+<details>
+<summary> ✍️ 2026년 03월 </summary>
+
+| 날짜  | 문제이름      | 언어   |  출처                                                                                |
+| ----- | ------------- | ------ | ------------------------------------------------------------------------------------------- |
+| 03/03 | Population_Census | SQL| [HackerRank asian-population](https://www.hackerrank.com/challenges/asian-population/problem)   |
+
 
 </details>
